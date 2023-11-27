@@ -1,10 +1,9 @@
 from datasets import load_dataset
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.decomposition import TruncatedSVD
+import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import string
-import nltk
+import json
 
 # Load NLTK stopwords
 nltk.download('stopwords')
@@ -18,7 +17,7 @@ def preprocess_and_remove_stopwords(text):
     tokens = word_tokenize(text)
     return ' '.join([word for word in tokens if word not in stop_words])
 
-# Try loading the dataset with specified training and validation split dates
+# Try loading the dataset
 try:
     dataset = load_dataset(
         'HUPD/hupd',
@@ -34,35 +33,26 @@ except Exception as e:
     print("Error loading dataset:", e)
     dataset = None
 
-# Rest of your code (if dataset_dict is not None)
-
 if dataset:
-    # Concatenate relevant fields and preprocess
     def concatenate_and_preprocess(dataset):
-        concatenated_data = {}
+        patents_data = []
         for patent in dataset:
             concatenated_text = ' '.join([str(patent[field]) for field in ['title', 'abstract', 'claims', 'background', 'summary', 'description'] if field in patent])
             preprocessed_text = preprocess_and_remove_stopwords(concatenated_text)
-            concatenated_data[patent['patent_number']] = preprocessed_text
-        return concatenated_data
+            patents_data.append({
+                "patent_name": patent.get('title', ''),
+                "patent_number": patent.get('patent_number', ''),
+                "uspc_class": patent.get('uspc_class', ''),
+                "uspc_subclass": patent.get('uspc_subclass', ''),
+                "date_produced": patent.get('filing_date', ''),
+                "processed_data": preprocessed_text
+            })
+        return patents_data
 
-    # Assuming dataset is a single dataset and not split
-    data = concatenate_and_preprocess(dataset)
+    patents_info = concatenate_and_preprocess(dataset)
 
-    # Vectorize and apply dimensionality reduction
-    vectorizer = TfidfVectorizer()
-    svd = TruncatedSVD(n_components=100)  # You can adjust the number of components
-
-    data_tfidf = vectorizer.fit_transform(data.values())
-
-    data_reduced = svd.fit_transform(data_tfidf)
-
-    # Create dictionary with reduced text
-    data_dict = {patent_number: text.tolist() for patent_number, text in zip(data.keys(), data_reduced)}
-
-    # Print first 5 entries of the dictionary
-    for i, (patent_number, text) in enumerate(data_dict.items()):
-        if i < 5:
-            print(patent_number, text)
+    # Save to JSON file
+    with open('patents.json', 'w') as f:
+        json.dump(patents_info, f, indent=4)
 else:
     print("Failed to load dataset")
