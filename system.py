@@ -37,7 +37,7 @@ corpus_tfidf = tfidf_model[corpus]
 lda_model = models.LdaModel(corpus_tfidf, num_topics=10, id2word=dictionary, passes=15)
 
 # Load query terms
-with open('patents_queries.txt', 'r') as file:
+with open('patent_queries.txt', 'r') as file:
     queries = file.readlines()
 queries = [query.strip() for query in queries]
 
