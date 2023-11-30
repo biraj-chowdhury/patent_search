@@ -1,8 +1,24 @@
 import json
+import string
 from gensim import corpora, models, similarities
 from pymongo import MongoClient
 from pymongo.server_api import ServerApi
 import nltk
+from nltk.stem import PorterStemmer
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+import numpy as np
+
+# Ensure necessary NLTK data is downloaded
+nltk.download('punkt')
+nltk.download('stopwords')
+
+def preprocess_text(text, stemmer, stop_words):
+    text = text.lower()
+    text = text.translate(str.maketrans('', '', string.punctuation))
+    tokens = word_tokenize(text)
+    filtered_tokens = [stemmer.stem(token) for token in tokens if token not in stop_words]
+    return filtered_tokens
 
 # MongoDB connection details
 uri = "mongodb+srv://patent_data:patent_data@cluster0.fhrejvf.mongodb.net/?retryWrites=true&w=majority"
@@ -17,24 +33,25 @@ collection = db['patents']
 # Fetch patent data from MongoDB
 patents_data = list(collection.find({}, {'_id': 0, 'processed_data': 1, 'patent_name': 1}))
 
+# Initialize stemmer and stopwords
+stemmer = PorterStemmer()
+stop_words = set(stopwords.words('english'))
+
 # Extract the processed patent texts
 patent_texts = [patent['processed_data'] for patent in patents_data]
 
-# Tokenize the documents
-tokenized_patents = [nltk.word_tokenize(text) for text in patent_texts]
+# Preprocess the patent texts
+preprocessed_patents = [preprocess_text(text, stemmer, stop_words) for text in patent_texts]
 
 # Create a dictionary representation of the documents
-dictionary = corpora.Dictionary(tokenized_patents)
+dictionary = corpora.Dictionary(preprocessed_patents)
 
 # Create a bag-of-words corpus
-corpus = [dictionary.doc2bow(text) for text in tokenized_patents]
+corpus = [dictionary.doc2bow(text) for text in preprocessed_patents]
 
 # Create a TF-IDF model from the corpus
 tfidf_model = models.TfidfModel(corpus)
 corpus_tfidf = tfidf_model[corpus]
-
-# Train the LDA model on the TF-IDF corpus
-lda_model = models.LdaModel(corpus_tfidf, num_topics=10, id2word=dictionary, passes=15)
 
 # Load query terms
 with open('patent_queries.txt', 'r') as file:
@@ -44,13 +61,15 @@ queries = [query.strip() for query in queries]
 # Number of top patents to retrieve for each query
 top_n = 5
 
-# Convert queries to LDA space and find similarity
+# Convert queries to TF-IDF space and find similarity
 for query in queries:
-    query_bow = dictionary.doc2bow(nltk.word_tokenize(query))
-    query_lda = lda_model[tfidf_model[query_bow]]
+    preprocessed_query = preprocess_text(query, stemmer, stop_words)
+    query_bow = dictionary.doc2bow(preprocessed_query)
+    query_tfidf = tfidf_model[query_bow]
 
-    similarities_index = similarities.MatrixSimilarity(lda_model[corpus_tfidf])
-    cosine_similarities = similarities_index[query_lda]
+    # Compute similarity for the entire corpus
+    similarities_index = similarities.MatrixSimilarity(tfidf_model[corpus], num_features=len(dictionary))
+    cosine_similarities = np.array(similarities_index[query_tfidf])
 
     relevant_patents_indices = cosine_similarities.argsort()[-top_n:][::-1]  # Indices of top N relevant patents
 
