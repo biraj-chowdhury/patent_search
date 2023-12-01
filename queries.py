@@ -1,111 +1,46 @@
 # Sample Queries for Testing Patent Search Models
 
 queries = [
-    "smartphone screen technology",
-    "renewable energy storage systems",
-    "water purification methods",
-    "virtual reality gaming devices",
-    "autonomous vehicle navigation systems",
-    "biodegradable packaging materials",
-    "robotic surgery equipment",
-    "wireless charging techniques",
-    "AI algorithms for data analysis",
-    "blockchain technology in banking",
-    "wearable fitness trackers",
-    "3D printing in construction",
-    "gene editing tools",
-    "quantum computing processors",
-    "augmented reality in education",
-    "voice recognition software",
-    "solar panel innovations",
-    "smart home automation systems",
-    "drone delivery services",
-    "machine learning in healthcare diagnostics",
-    "cybersecurity for IoT devices",
-    "non-invasive glucose monitoring",
-    "virtual meeting technology",
-    "battery life extension methods",
-    "recycling techniques for plastics",
-    "earthquake resistant building structures",
-    "self-healing materials",
-    "underwater exploration drones",
-    "adaptive traffic control systems",
-    "wearable technology for health monitoring",
-    "predictive analytics in finance",
-    "electric aircraft propulsion",
-    "agricultural robots and automation",
-    "mRNA vaccine development",
-    "nanotechnology in medicine",
-    "artificial photosynthesis",
-    "next-generation wireless networks",
-    "autonomous underwater vehicles",
-    "personalized learning algorithms",
-    "carbon capture and storage",
-    "smart contact lenses",
-    "language translation software",
-    "high-speed rail systems",
-    "sustainable urban planning",
-    "smart fabrics and textiles",
-    "precision agriculture technologies",
-    "space tourism vehicles",
-    "implantable medical devices",
-    "geothermal energy extraction",
-    "virtual reality in therapy",
-    "augmented reality shopping experiences",
-    "cloud computing security",
-    "deep sea mining technology",
-    "emotional recognition AI",
-    "advanced prosthetics",
-    "contactless payment systems",
-    "microbial fuel cells",
-    "smart road technologies",
-    "autonomous industrial robots",
-    "digital twin technology",
-    "3D bioprinting organs",
-    "fusion energy research",
-    "hypersonic travel technology",
-    "AI in predictive maintenance",
-    "virtual assistants in healthcare",
-    "internet of things in agriculture",
-    "wearable air purifiers",
-    "adaptive learning technology",
-    "non-lethal crowd control devices",
-    "facial recognition systems",
-    "offshore wind energy",
-    "magnetic levitation transportation",
-    "quantum encryption methods",
-    "virtual reality in architecture",
-    "nanobots in cancer treatment",
-    "esports technology advancements",
-    "bionic eye implants",
-    "wireless mesh networks",
-    "smart pill technology",
-    "autonomous farming equipment",
-    "sustainable fishing technologies",
-    "augmented reality in retail",
-    "low-latency satellite internet",
-    "AI-driven content creation",
-    "digital health passports",
-    "eco-friendly road materials",
-    "robotic exoskeletons for rehabilitation",
-    "portable water desalination devices",
-    "AI for environmental monitoring",
-    "urban air mobility solutions",
-    "brain-computer interfaces",
-    "zero-emission transportation",
-    "personalized nutrition algorithms",
-    "smart dust technology",
-    "virtual reality in real estate",
-    "wearable technology for pets",
-    "AI in logistics and supply chain",
-    "energy-efficient building designs",
-    "non-invasive brain therapy",
-    "quantum computing in cryptography",
-    "biofuel production techniques",
-    "3D printing in aerospace",
-    "smart agriculture sensors",
-    "autonomous cargo ships",
-    "reusable rocket technology"
+   "Artificial Intelligence",  # Broad and general
+    "Solar Energy Systems",  # Another broad topic
+    "Autonomous Vehicles in Urban Environments",  # More specific
+    "CRISPR Gene Editing Applications",  # Broad in biotech
+    "Machine Learning in Stock Market Prediction",  # Specific application of AI
+    "Blockchain for Voting Systems",  # Specific application of technology
+    "Nanotechnology in Cancer Treatment",  # Narrow focus in nanotech
+    "Augmented Reality in Classroom Learning",  # Specific educational technology
+    "IoT Security Protocols in Manufacturing",  # Narrow focus in IoT
+    "Deep Sea Exploration Technologies",  # Broad in marine technology
+    "Quantum Computing for Data Encryption",  # Specific application in quantum computing
+    "Sustainable Farming Practices",  # Broad in agriculture
+    "5G Network Implementation Challenges",  # Specific in telecommunication
+    "Wearable Health Monitoring Devices",  # Narrow focus in healthcare tech
+    "Virtual Reality in Surgical Training",  # Specific in medical training
+    "Biodegradable Packaging Materials",  # Broad in materials science
+    "Air Quality Monitoring using Drones",  # Specific in environmental monitoring
+    "Neural Networks for Language Translation",  # Specific in computational linguistics
+    "Hydroponic Systems in Urban Farming",  # Specific in urban agriculture
+    "Graphene Batteries in Electric Vehicles",  # Specific in energy storage
+    "Machine Learning in Cybersecurity Threat Detection",  # Narrow focus in cybersecurity
+    "Biomimicry in Architectural Design",  # Specific in sustainable design
+    "Robotics in Precision Agriculture",  # Specific in agricultural automation
+    "3D Bioprinting of Human Organs",  # Narrow focus in medical technology
+    "Microplastic Removal Techniques in Oceans",  # Specific in environmental conservation
+    "Smart Cities and Traffic Management Systems",  # Specific in urban planning
+    "Personalized Learning Algorithms in Online Education",  # Specific in edtech
+    "Space Tourism and Commercial Spaceflight",  # Broad in aerospace
+    "Virtual Assistants in Customer Service",  # Specific in AI applications
+    "Renewable Energy Integration in Grid Systems",  # Specific in energy management
+    "AI-Powered Personal Finance Management",  # Specific in fintech
+    "Waste-to-Energy Conversion Technologies",  # Broad in waste management
+    "DNA Data Storage Technologies",  # Specific in data storage
+    "Wearable Exoskeletons in Rehabilitation",  # Specific in medical devices
+    "Underwater Robotics for Marine Research",  # Specific in marine robotics
+    "Autonomous Farming Machinery",  # Specific in agricultural tech
+    "Voice Recognition Technology in Smart Homes",  # Specific in home automation
+    "Quantum Sensors in Navigation Systems",  # Narrow focus in quantum tech
+    "Drone Delivery Systems in Logistics",  # Specific in delivery systems
+    "Artificial Photosynthesis for Carbon Capture"  # Specific in 
 ]
 
 # Exporting to a file

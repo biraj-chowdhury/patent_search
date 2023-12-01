@@ -1,5 +1,6 @@
 import json
 import string
+import sys
 from gensim import corpora, models, similarities
 from pymongo import MongoClient
 from pymongo.server_api import ServerApi
@@ -20,22 +21,34 @@ def preprocess_text(text, stemmer, stop_words):
     filtered_tokens = [stemmer.stem(token) for token in tokens if token not in stop_words]
     return filtered_tokens
 
+def fetch_data_from_json(json_file):
+    with open(json_file, 'r') as file:
+        return json.load(file)
+
 # MongoDB connection details
 uri = "mongodb+srv://patent_data:patent_data@cluster0.fhrejvf.mongodb.net/?retryWrites=true&w=majority"
-
-# Initialize MongoDB client
-client = MongoClient(uri, server_api=ServerApi('1'))
-
-# Connect to the patent database and collection
-db = client['patent_database']
-collection = db['patents']
-
-# Fetch patent data from MongoDB
-patents_data = list(collection.find({}, {'_id': 0, 'processed_data': 1, 'patent_name': 1}))
 
 # Initialize stemmer and stopwords
 stemmer = PorterStemmer()
 stop_words = set(stopwords.words('english'))
+
+# Check for JSON file argument
+if len(sys.argv) > 1:
+    json_file = sys.argv[1]
+    patents_data = fetch_data_from_json(json_file)
+else:
+    # Initialize MongoDB client
+    client = MongoClient(uri, server_api=ServerApi('1'))
+
+    # Connect to the patent database and collection
+    db = client['patent_database']
+    collection = db['patents']
+
+    # Fetch patent data from MongoDB
+    patents_data = list(collection.find({}, {'_id': 0, 'processed_data': 1, 'patent_name': 1}))
+
+    # Close the MongoDB connection
+    client.close()
 
 # Extract the processed patent texts
 patent_texts = [patent['processed_data'] for patent in patents_data]
@@ -76,6 +89,7 @@ for query in queries:
     print(f"\nMost relevant patents for query: '{query}'")
     for index in relevant_patents_indices:
         print(f"Patent: {patents_data[index]['patent_name']} (Score: {cosine_similarities[index]:.4f})")
+
 
 # Close the MongoDB connection
 client.close()
