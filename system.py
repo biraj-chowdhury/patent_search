@@ -9,10 +9,43 @@ from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 import numpy as np
+from nltk.corpus import wordnet
 
 # Ensure necessary NLTK data is downloaded
 nltk.download('punkt')
 nltk.download('stopwords')
+
+def get_wordnet_pos(treebank_tag):
+    """Convert the part-of-speech naming scheme from the Penn Treebank tag to a WordNet tag."""
+    if treebank_tag.startswith('J'):
+        return wordnet.ADJ
+    elif treebank_tag.startswith('V'):
+        return wordnet.VERB
+    elif treebank_tag.startswith('N'):
+        return wordnet.NOUN
+    elif treebank_tag.startswith('R'):
+        return wordnet.ADV
+    else:
+        return None
+
+def expand_query(query):
+    expanded_query = []
+    for word, pos in nltk.pos_tag(word_tokenize(query)):
+        synonyms = set()
+        wordnet_pos = get_wordnet_pos(pos)
+        if wordnet_pos:
+            synsets = wordnet.synsets(word, pos=wordnet_pos)
+            if synsets:
+                primary_synset = synsets[0]  # Consider the primary sense of the word
+                for syn in synsets[:2]:  # Limit to the first two synsets
+                    if syn.wup_similarity(primary_synset) > 0.7:  # Check for similarity between synsets
+                        for lemma in syn.lemmas():
+                            synonym = lemma.name().replace('_', ' ')
+                            if synonym != word:  # Avoid adding the word itself as a synonym
+                                synonyms.add(synonym)
+        expanded_query.append(word)
+        expanded_query.extend(synonyms)
+    return ' '.join(expanded_query)
 
 def preprocess_text(text, stemmer, stop_words):
     text = text.lower()
@@ -80,7 +113,9 @@ def main():
 
     # Convert queries to TF-IDF space and find similarity
     for query in queries:
-        preprocessed_query = preprocess_text(query, stemmer, stop_words)
+        expanded_query = expand_query(query)
+        print("Original Query: ", query, "\n Expanded: ", expanded_query )
+        preprocessed_query = preprocess_text(expanded_query, stemmer, stop_words)
         query_bow = dictionary.doc2bow(preprocessed_query)
         query_tfidf = tfidf_model[query_bow]
 

@@ -4,23 +4,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Artificial intelligence apparatus and method for updating artificial \u2026",
-                "score": 0.29322028160095215
+                "score": 0.13653384149074554
             },
             {
                 "patent_name": "Intelligent machine attitude determination, full-view image generation and \u2026",
-                "score": 0.2008262276649475
+                "score": 0.09351186454296112
             },
             {
                 "patent_name": "Machine Learning Models In An Artificial Intelligence Infrastructure",
-                "score": 0.1886989325284958
+                "score": 0.0878649652004242
             },
             {
                 "patent_name": "\u2026 a transformed dataset for use by a machine learning model in an artificial \u2026",
-                "score": 0.1712953746318817
+                "score": 0.07976125180721283
             },
             {
                 "patent_name": "Online learning simulator using machine learning",
-                "score": 0.16257521510124207
+                "score": 0.07570083439350128
             }
         ]
     },
@@ -29,23 +29,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Solar tracker for solar energy devices",
-                "score": 0.6562336087226868
+                "score": 0.602419912815094
             },
             {
                 "patent_name": "Surface solar energy and hydropower combined power generation method",
-                "score": 0.6169765591621399
+                "score": 0.5726583003997803
             },
             {
                 "patent_name": "Solar energy systems",
-                "score": 0.5068345069885254
+                "score": 0.4543284773826599
             },
             {
                 "patent_name": "Solar energy photovoltaic multiplication power generation system",
-                "score": 0.43461892008781433
+                "score": 0.39569759368896484
             },
             {
-                "patent_name": "Concentrating solar power with glasshouses",
-                "score": 0.40753108263015747
+                "patent_name": "A kind of complementary type green energy supply system",
+                "score": 0.3737025260925293
             }
         ]
     },
@@ -54,23 +54,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Modifying the behavior of an autonomous vehicle using context based parameter \u2026",
-                "score": 0.20953650772571564
-            },
-            {
-                "patent_name": "Transport system, self-driving vehicle and control method of a transport system",
-                "score": 0.17725175619125366
+                "score": 0.16109290719032288
             },
             {
                 "patent_name": "Robotic platform and method for performing multiple functions in agricultural \u2026",
-                "score": 0.17287833988666534
+                "score": 0.13410994410514832
+            },
+            {
+                "patent_name": "Transport system, self-driving vehicle and control method of a transport system",
+                "score": 0.13297654688358307
             },
             {
                 "patent_name": "The system and method for storage and calling station data",
-                "score": 0.14475983381271362
+                "score": 0.11216389387845993
             },
             {
                 "patent_name": "Recovery apparatus and allocated method",
-                "score": 0.13998164236545563
+                "score": 0.10877281427383423
             }
         ]
     },
@@ -79,23 +79,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Delivery, use and therapeutic application of CRISPR-Cas systems and \u2026",
-                "score": 0.4214928448200226
+                "score": 0.32780420780181885
             },
             {
                 "patent_name": "Methods and compositions for enhancing gene editing",
-                "score": 0.3057069778442383
-            },
-            {
-                "patent_name": "Anti-crispr-mediated control of genome editing and synthetic circuits in \u2026",
-                "score": 0.30054640769958496
+                "score": 0.29072263836860657
             },
             {
                 "patent_name": "Double selection hdr crispr-based editing",
-                "score": 0.2993660569190979
+                "score": 0.2742277979850769
             },
             {
-                "patent_name": "Pooled crispr/cas9 screening in primary cells using guide swap technology",
-                "score": 0.24549204111099243
+                "patent_name": "Anti-crispr-mediated control of genome editing and synthetic circuits in \u2026",
+                "score": 0.23833367228507996
+            },
+            {
+                "patent_name": "Anti-crispr compounds and methods of use",
+                "score": 0.23354285955429077
             }
         ]
     },
@@ -103,24 +103,24 @@
         "query": "Machine Learning in Stock Market Prediction",
         "relevant_patents": [
             {
-                "patent_name": "A kind of Stock Market Forecasting method merged based on sentiment analysis \u2026",
-                "score": 0.48749449849128723
+                "patent_name": "Future trends forecasting system",
+                "score": 0.40870365500450134
             },
             {
-                "patent_name": "Future trends forecasting system",
-                "score": 0.45993465185165405
+                "patent_name": "A kind of Stock Market Forecasting method merged based on sentiment analysis \u2026",
+                "score": 0.40349969267845154
             },
             {
                 "patent_name": "Real-time event transcription system and method",
-                "score": 0.4311811923980713
+                "score": 0.39992716908454895
             },
             {
                 "patent_name": "Deep learning stock market prediction method combined with financial news",
-                "score": 0.3323194980621338
+                "score": 0.2690965533256531
             },
             {
-                "patent_name": "Sorbent containing engineered fuel feed stock",
-                "score": 0.3036916255950928
+                "patent_name": "Method and system for developing predictions from disparate data sources using \u2026",
+                "score": 0.2422773391008377
             }
         ]
     },
@@ -128,24 +128,24 @@
         "query": "Blockchain for Voting Systems",
         "relevant_patents": [
             {
-                "patent_name": "System and method for securely receiving and counting votes in an election",
-                "score": 0.6434500217437744
+                "patent_name": "Secure voting system",
+                "score": 0.7696603536605835
             },
             {
                 "patent_name": "System and method for securely receiving and counting votes in an election",
-                "score": 0.6399957537651062
+                "score": 0.6071587204933167
             },
             {
                 "patent_name": "System and method for securely receiving and counting votes in an election",
-                "score": 0.6268566846847534
+                "score": 0.5571576356887817
             },
             {
-                "patent_name": "Simulation-based testing of blockchain and other distributed ledger systems",
-                "score": 0.599655270576477
+                "patent_name": "System and method for securely receiving and counting votes in an election",
+                "score": 0.5458430647850037
             },
             {
-                "patent_name": "Systems and methods for communication, storage and processing of data provided \u2026",
-                "score": 0.5300196409225464
+                "patent_name": "Anonymous password voting method and system based on block chain",
+                "score": 0.4585886299610138
             }
         ]
     },
@@ -154,23 +154,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Water-soluble fullerene nano material and preparation method and application \u2026",
-                "score": 0.2644554376602173
+                "score": 0.21319347620010376
             },
             {
                 "patent_name": "Immune effector cell therapies with enhanced efficacy",
-                "score": 0.14286795258522034
+                "score": 0.11768341064453125
             },
             {
                 "patent_name": "Magnetic nanoparticle composition and use thereof",
-                "score": 0.13399037718772888
+                "score": 0.11062131077051163
             },
             {
                 "patent_name": "Enhancement of radiation therapy by targeted high-z nanoparticles",
-                "score": 0.09878220409154892
+                "score": 0.07861606031656265
             },
             {
                 "patent_name": "Precision agricultural treatment based on growth stage in real time",
-                "score": 0.09660147875547409
+                "score": 0.07688052952289581
             }
         ]
     },
@@ -179,23 +179,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Modular staged reality simulator",
-                "score": 0.15767423808574677
+                "score": 0.1537064164876938
             },
             {
                 "patent_name": "System and method for improved end-to-end cybersecurity machine learning and \u2026",
-                "score": 0.11075109243392944
+                "score": 0.10796409100294113
             },
             {
                 "patent_name": "Learning behavior dynamic prediction method, device, equipment and storage \u2026",
-                "score": 0.10063228756189346
+                "score": 0.09809991717338562
+            },
+            {
+                "patent_name": "Online learning system based on emotional state",
+                "score": 0.07972443848848343
             },
             {
                 "patent_name": "After-school class contents provision system based on augmented reality",
-                "score": 0.08136163651943207
-            },
-            {
-                "patent_name": "Real time learning and self improvement educational system and method",
-                "score": 0.07705865800380707
+                "score": 0.0793142020702362
             }
         ]
     },
@@ -203,24 +203,24 @@
         "query": "IoT Security Protocols in Manufacturing",
         "relevant_patents": [
             {
-                "patent_name": "Analytics-based internet of things security platform",
-                "score": 0.5302478075027466
+                "patent_name": "Secure communication of IOT devices for vehicles",
+                "score": 0.3257979154586792
             },
             {
-                "patent_name": "Secure communication of IOT devices for vehicles",
-                "score": 0.5017224550247192
+                "patent_name": "Analytics-based internet of things security platform",
+                "score": 0.29940366744995117
             },
             {
                 "patent_name": "Zero-touch provisioning of IoT devices with multi factor authentication",
-                "score": 0.48524102568626404
+                "score": 0.2759994864463806
             },
             {
                 "patent_name": "Network security systems and methods",
-                "score": 0.3157312572002411
+                "score": 0.21965831518173218
             },
             {
                 "patent_name": "Methods, system and point-to-point encryption device microchip for AES-sea 512- \u2026",
-                "score": 0.2836305797100067
+                "score": 0.18030472099781036
             }
         ]
     },
@@ -229,23 +229,23 @@
         "relevant_patents": [
             {
                 "patent_name": "An articulated submarine robot having a combined movement function of walking \u2026",
-                "score": 0.1312599778175354
+                "score": 0.11072687804698944
             },
             {
                 "patent_name": "Apparatus for investigating the sea bottom comprising geomagnetic sensor",
-                "score": 0.1163647323846817
+                "score": 0.09789752960205078
             },
             {
                 "patent_name": "Seabed survey system using multi-legged underwater robot with hybrid moving \u2026",
-                "score": 0.08052732795476913
+                "score": 0.06786802411079407
             },
             {
                 "patent_name": "Automated data storage library with multi-cartridge deep slot cells",
-                "score": 0.07230616360902786
+                "score": 0.06079425290226936
             },
             {
                 "patent_name": "Method and apparatus for gas hydrate position detection",
-                "score": 0.06831351667642593
+                "score": 0.057685378938913345
             }
         ]
     },
@@ -254,23 +254,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Electronic security keys for data security based on quantum particle states",
-                "score": 0.7241641283035278
+                "score": 0.6817162036895752
             },
             {
                 "patent_name": "Quantum computing on encrypted data",
-                "score": 0.6422905325889587
+                "score": 0.6059989333152771
             },
             {
                 "patent_name": "Electronic security keys for data security based on quantum particle states \u2026",
-                "score": 0.6237652897834778
+                "score": 0.5891368389129639
             },
             {
                 "patent_name": "The One-Qubit Pad (OQP) for entanglement encryption of quantum information",
-                "score": 0.40047648549079895
+                "score": 0.3779224753379822
             },
             {
                 "patent_name": "Systems and methods for quantum algorithm based optimization",
-                "score": 0.30731016397476196
+                "score": 0.29337432980537415
             }
         ]
     },
@@ -279,23 +279,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Aerial farm robot system for crop dusting, planting, fertilizing and other \u2026",
-                "score": 0.3938911259174347
-            },
-            {
-                "patent_name": "Hybrid airship-drone farm robot system for crop dusting, planting, fertilizing \u2026",
-                "score": 0.3376818001270294
+                "score": 0.2854832410812378
             },
             {
                 "patent_name": "Devices, systems, and methods for determining and displaying multiple calandar- \u2026",
-                "score": 0.3314492106437683
+                "score": 0.24448886513710022
             },
             {
-                "patent_name": "Automatic system for navigation of an agricultural robot using pixhawk",
-                "score": 0.2131471335887909
+                "patent_name": "Hybrid airship-drone farm robot system for crop dusting, planting, fertilizing \u2026",
+                "score": 0.24370749294757843
             },
             {
                 "patent_name": "System and method of providing agricultural pedigree for agricultural products \u2026",
-                "score": 0.16547197103500366
+                "score": 0.21404574811458588
+            },
+            {
+                "patent_name": "Automatic system for navigation of an agricultural robot using pixhawk",
+                "score": 0.21012777090072632
             }
         ]
     },
@@ -304,23 +304,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Methods, systems, kits and apparatuses for providing end-to-end, secured and \u2026",
-                "score": 0.5185543298721313
+                "score": 0.3927612602710724
             },
             {
                 "patent_name": "Methods, systems, kits and apparatuses for providing end-to-end, secured and \u2026",
-                "score": 0.5185543298721313
+                "score": 0.3927612602710724
             },
             {
                 "patent_name": "Cellular system",
-                "score": 0.2957059442996979
+                "score": 0.225896954536438
             },
             {
                 "patent_name": "Cellular system",
-                "score": 0.28370460867881775
+                "score": 0.21732792258262634
             },
             {
                 "patent_name": "Cellular system",
-                "score": 0.2792941927909851
+                "score": 0.21424813568592072
             }
         ]
     },
@@ -329,23 +329,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Method and system for continuous monitoring of health parameters during \u2026",
-                "score": 0.4914293587207794
+                "score": 0.49082159996032715
             },
             {
                 "patent_name": "Smart wearable device for health watch",
-                "score": 0.3229359984397888
+                "score": 0.32255423069000244
             },
             {
                 "patent_name": "Wearable health monitoring system",
-                "score": 0.2796032130718231
+                "score": 0.27947288751602173
             },
             {
                 "patent_name": "Wearable monitoring devices",
-                "score": 0.1785310059785843
+                "score": 0.17852312326431274
             },
             {
                 "patent_name": "System for monitoring health related information for individuals",
-                "score": 0.16159656643867493
+                "score": 0.161393404006958
             }
         ]
     },
@@ -354,23 +354,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Surgical training simulator having augmented reality",
-                "score": 0.5794694423675537
+                "score": 0.3335828483104706
             },
             {
                 "patent_name": "Surgical training simulator having multiple tracking systems",
-                "score": 0.5488389134407043
+                "score": 0.3179028630256653
             },
             {
                 "patent_name": "Modular staged reality simulator",
-                "score": 0.27265942096710205
+                "score": 0.22542133927345276
             },
             {
                 "patent_name": "A kind of medical simulation training system and method",
-                "score": 0.26501473784446716
+                "score": 0.20127293467521667
             },
             {
-                "patent_name": "training equipment",
-                "score": 0.2550836503505707
+                "patent_name": "Virtual teaching training system for puncture",
+                "score": 0.15484574437141418
             }
         ]
     },
@@ -379,23 +379,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Biodegradable packaging for shipping",
-                "score": 0.4410668611526489
+                "score": 0.29548656940460205
             },
             {
                 "patent_name": "Biodegradable packaging laminate, a method of producing the packaging laminate, \u2026",
-                "score": 0.3718554675579071
+                "score": 0.249119371175766
             },
             {
                 "patent_name": "Highly-filled fully-biodegradable packaging material",
-                "score": 0.3546595275402069
+                "score": 0.2375992089509964
             },
             {
                 "patent_name": "Biodegradable packaging materials with enhanced oxygen barrier performance",
-                "score": 0.32745131850242615
+                "score": 0.21937143802642822
             },
             {
                 "patent_name": "Heat-sealable biodegradable packaging material, a method for its manufacture, \u2026",
-                "score": 0.32249435782432556
+                "score": 0.21605059504508972
             }
         ]
     },
@@ -404,23 +404,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Drone based delivery system using vehicles",
-                "score": 0.635994017124176
+                "score": 0.6300788521766663
             },
             {
                 "patent_name": "Smart drone rooftop and ground airport system",
-                "score": 0.5074199438095093
+                "score": 0.5026478171348572
             },
             {
                 "patent_name": "Receiving Appliance for Automated Deliveries",
-                "score": 0.33542853593826294
+                "score": 0.3324137032032013
             },
             {
                 "patent_name": "Solar energy systems",
-                "score": 0.32206642627716064
+                "score": 0.3191205561161041
             },
             {
                 "patent_name": "Drone with four wings maneuverable by flapping action",
-                "score": 0.3060656785964966
+                "score": 0.30308738350868225
             }
         ]
     },
@@ -429,23 +429,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Intelligent control with hierarchical stacked neural networks",
-                "score": 0.452802449464798
+                "score": 0.23632901906967163
             },
             {
                 "patent_name": "Visual sign language translation training device and method",
-                "score": 0.398998498916626
+                "score": 0.21208088099956512
             },
             {
                 "patent_name": "Automated gesture identification using neural networks",
-                "score": 0.36355412006378174
+                "score": 0.18935364484786987
             },
             {
                 "patent_name": "Real-time gesture recognition method and apparatus",
-                "score": 0.3286370038986206
+                "score": 0.17311599850654602
             },
             {
                 "patent_name": "Translation method, translation equipment and computer program",
-                "score": 0.3208862543106079
+                "score": 0.16383881866931915
             }
         ]
     },
@@ -454,23 +454,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Automated modular system for managing vertical farms",
-                "score": 0.40836966037750244
-            },
-            {
-                "patent_name": "Hybrid Hydroponic Plant Growing Systems",
-                "score": 0.2560075521469116
+                "score": 0.3569439947605133
             },
             {
                 "patent_name": "Aerial farm robot system for crop dusting, planting, fertilizing and other \u2026",
-                "score": 0.2422386258840561
+                "score": 0.21873413026332855
+            },
+            {
+                "patent_name": "Hybrid Hydroponic Plant Growing Systems",
+                "score": 0.21264104545116425
             },
             {
                 "patent_name": "Automated Hydroponic Growing Appliance",
-                "score": 0.22712741792201996
+                "score": 0.1959044188261032
             },
             {
                 "patent_name": "Hybrid airship-drone farm robot system for crop dusting, planting, fertilizing \u2026",
-                "score": 0.20727162063121796
+                "score": 0.18485167622566223
             }
         ]
     },
@@ -479,23 +479,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Rechargeable lithium cell having a chemically bonded phthalocyanine compound \u2026",
-                "score": 0.38428303599357605
+                "score": 0.26128560304641724
+            },
+            {
+                "patent_name": "Electric bicycle capable of running for long distance",
+                "score": 0.22332388162612915
             },
             {
                 "patent_name": "Lithium super-battery with a functionalized nano graphene cathode",
-                "score": 0.3118330240249634
+                "score": 0.22030530869960785
             },
             {
-                "patent_name": "Positive electrode active material and electricity storage device",
-                "score": 0.2639167308807373
+                "patent_name": "System and method for battery cell thermal management using carbon-based \u2026",
+                "score": 0.20773948729038239
             },
             {
-                "patent_name": "Surface-mediated cell-powered vehicles and methods of operating same",
-                "score": 0.22084450721740723
-            },
-            {
-                "patent_name": "Graphene nanocomposites for electrochemical cell electrodes",
-                "score": 0.1869371086359024
+                "patent_name": "Modifying the behavior of an autonomous vehicle using context based parameter \u2026",
+                "score": 0.198883056640625
             }
         ]
     },
@@ -503,24 +503,24 @@
         "query": "Machine Learning in Cybersecurity Threat Detection",
         "relevant_patents": [
             {
-                "patent_name": "System and method for improved end-to-end cybersecurity machine learning and \u2026",
-                "score": 0.44934287667274475
-            },
-            {
                 "patent_name": "Cyber threat defense system and method",
-                "score": 0.43552491068840027
+                "score": 0.48294663429260254
             },
             {
-                "patent_name": "System and method for heterogeneous transferred learning for enhanced \u2026",
-                "score": 0.33298948407173157
+                "patent_name": "System and method for improved end-to-end cybersecurity machine learning and \u2026",
+                "score": 0.4370262622833252
             },
             {
                 "patent_name": "Method for sharing cybersecurity threat analysis and defensive measures amongst \u2026",
-                "score": 0.2633582651615143
+                "score": 0.3587963283061981
             },
             {
-                "patent_name": "Method, apparatus, and system to map network reachability",
-                "score": 0.26059091091156006
+                "patent_name": "Cyber Security for Instant Messaging Across Platforms",
+                "score": 0.3474873900413513
+            },
+            {
+                "patent_name": "Cyber security for software-as-a-service factoring risk",
+                "score": 0.31846803426742554
             }
         ]
     },
@@ -529,23 +529,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Robot Fleet Management Configured for Use of an Artificial Intelligence Chipset",
-                "score": 0.015086899511516094
+                "score": 0.016232047230005264
             },
             {
                 "patent_name": "Sdr-based massive mimo with v-ran cloud architecture and sdn-based network \u2026",
-                "score": 0.014239896088838577
+                "score": 0.014682567678391933
             },
             {
                 "patent_name": "System and method for integrated virtual assistant-enhanced customer service",
-                "score": 0.013960900716483593
+                "score": 0.014418436214327812
             },
             {
                 "patent_name": "Ultra-broadband virtualized telecom and internet",
-                "score": 0.013716336339712143
+                "score": 0.014113768003880978
             },
             {
                 "patent_name": "Drone with four wings maneuverable by flapping action",
-                "score": 0.01087712962180376
+                "score": 0.01127543207257986
             }
         ]
     },
@@ -553,24 +553,24 @@
         "query": "Robotics in Precision Agriculture",
         "relevant_patents": [
             {
-                "patent_name": "A kind of polyhouse-based agriculture robot based on machine vision",
-                "score": 0.49225914478302
+                "patent_name": "Automatic system for navigation of an agricultural robot using pixhawk",
+                "score": 0.35465624928474426
             },
             {
-                "patent_name": "Automatic system for navigation of an agricultural robot using pixhawk",
-                "score": 0.4085615277290344
+                "patent_name": "Aerial farm robot system for crop dusting, planting, fertilizing and other \u2026",
+                "score": 0.35156720876693726
+            },
+            {
+                "patent_name": "Hybrid airship-drone farm robot system for crop dusting, planting, fertilizing \u2026",
+                "score": 0.28574803471565247
+            },
+            {
+                "patent_name": "A kind of polyhouse-based agriculture robot based on machine vision",
+                "score": 0.2511158585548401
             },
             {
                 "patent_name": "System and method of providing agricultural pedigree for agricultural products \u2026",
-                "score": 0.3772055506706238
-            },
-            {
-                "patent_name": "Precision agricultural treatment based on growth stage in real time",
-                "score": 0.3659530580043793
-            },
-            {
-                "patent_name": "Autonomous agricultural treatment system using map based targeting of \u2026",
-                "score": 0.35539352893829346
+                "score": 0.23437291383743286
             }
         ]
     },
@@ -579,23 +579,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Preparation and application of fibrin-containing or non-containing RGD- \u2026",
-                "score": 0.46599888801574707
+                "score": 0.24961882829666138
             },
             {
                 "patent_name": "Method for modifying surface of hydroxyapatite by 3D (three-dimensional) \u2026",
-                "score": 0.14537334442138672
+                "score": 0.07882897555828094
             },
             {
                 "patent_name": "Spontaneously beating cardiac organoid constructs and integrated body-on-chip \u2026",
-                "score": 0.12499840557575226
+                "score": 0.06720618903636932
             },
             {
                 "patent_name": "Visual sign language translation training device and method",
-                "score": 0.12043797969818115
+                "score": 0.0650441125035286
             },
             {
                 "patent_name": "Cleanroom technology for bioprinters and 3D printers",
-                "score": 0.09731107950210571
+                "score": 0.0515454076230526
             }
         ]
     },
@@ -604,23 +604,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Integrated separation unit for microplastics in the coastal sediments and \u2026",
-                "score": 0.5689839124679565
+                "score": 0.44006726145744324
             },
             {
                 "patent_name": "Enrichment device for rapidly and continuously separating microplastic and \u2026",
-                "score": 0.4406750202178955
+                "score": 0.34018680453300476
             },
             {
                 "patent_name": "minute plastic detection apparatus",
-                "score": 0.3092535436153412
-            },
-            {
-                "patent_name": "Waste water quality monitoring system including water treatment rtu with fine \u2026",
-                "score": 0.22049666941165924
+                "score": 0.2395992875099182
             },
             {
                 "patent_name": "Ocean cleanup autonomous system (ocas)",
-                "score": 0.1889752894639969
+                "score": 0.2379424273967743
+            },
+            {
+                "patent_name": "Increasing the efficiency of supplemented ocean thermal energy conversion ( \u2026",
+                "score": 0.2123025357723236
             }
         ]
     },
@@ -629,23 +629,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Smart city management method and system based on regional traffic synchronism",
-                "score": 0.4056200385093689
+                "score": 0.3833455741405487
             },
             {
                 "patent_name": "Method and apparatus for controlling smart home appliance, control device and \u2026",
-                "score": 0.3500704765319824
+                "score": 0.3186946213245392
             },
             {
                 "patent_name": "City control management system based on wisdom street lamp",
-                "score": 0.280815064907074
+                "score": 0.28076666593551636
             },
             {
                 "patent_name": "GPS (Global Position System)/GPRS (General Packet Radio Service) based method \u2026",
-                "score": 0.16383615136146545
+                "score": 0.18217766284942627
             },
             {
                 "patent_name": "Information providing system of the traffic and convenient facilities using \u2026",
-                "score": 0.116081103682518
+                "score": 0.1139223650097847
             }
         ]
     },
@@ -654,23 +654,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Real time learning and self improvement educational system and method",
-                "score": 0.20565402507781982
-            },
-            {
-                "patent_name": "System and method for improved end-to-end cybersecurity machine learning and \u2026",
-                "score": 0.185576930642128
+                "score": 0.1315017193555832
             },
             {
                 "patent_name": "Learning behavior dynamic prediction method, device, equipment and storage \u2026",
-                "score": 0.18305538594722748
+                "score": 0.1100388616323471
             },
             {
-                "patent_name": "Online learning system based on emotional state",
-                "score": 0.18170279264450073
+                "patent_name": "System and method for improved end-to-end cybersecurity machine learning and \u2026",
+                "score": 0.10389813035726547
             },
             {
                 "patent_name": "3-d image education system and method",
-                "score": 0.1433676779270172
+                "score": 0.10026701539754868
+            },
+            {
+                "patent_name": "Online learning system based on emotional state",
+                "score": 0.09440416842699051
             }
         ]
     },
@@ -678,24 +678,24 @@
         "query": "Space Tourism and Commercial Spaceflight",
         "relevant_patents": [
             {
+                "patent_name": "Electronic security keys for data security based on quantum particle states \u2026",
+                "score": 0.02887605130672455
+            },
+            {
+                "patent_name": "Electronic security keys for data security based on quantum particle states",
+                "score": 0.028589440509676933
+            },
+            {
+                "patent_name": "Parameter-based navigation by a lumen traveling device",
+                "score": 0.022458214312791824
+            },
+            {
+                "patent_name": "Cyber Security for Instant Messaging Across Platforms",
+                "score": 0.01987498439848423
+            },
+            {
                 "patent_name": "3-D Immersion Technology in a Virtual Store",
-                "score": 0.0118176294490695
-            },
-            {
-                "patent_name": "Unified nonlinear modeling approach for machine learning and artificial \u2026",
-                "score": 0.008889611810445786
-            },
-            {
-                "patent_name": "Central processing horticulture",
-                "score": 0.00485375477001071
-            },
-            {
-                "patent_name": "Advanced parking management system",
-                "score": 0.004634184762835503
-            },
-            {
-                "patent_name": "A kind of digital globe antetype system",
-                "score": 0.004370315931737423
+                "score": 0.01291161123663187
             }
         ]
     },
@@ -704,23 +704,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Interacting with a user device to provide automated testing of a customer \u2026",
-                "score": 0.5375396013259888
-            },
-            {
-                "patent_name": "System and method for distributed virtual assistant platforms",
-                "score": 0.28418290615081787
-            },
-            {
-                "patent_name": "System and method for assisting customers in accessing appropriate customer \u2026",
-                "score": 0.27321940660476685
+                "score": 0.3302840292453766
             },
             {
                 "patent_name": "Online learning simulator using machine learning",
-                "score": 0.24687445163726807
+                "score": 0.19570955634117126
             },
             {
-                "patent_name": "Systems and methods for providing customized virtual wireless networks based on \u2026",
-                "score": 0.22138509154319763
+                "patent_name": "System and method for distributed virtual assistant platforms",
+                "score": 0.17766915261745453
+            },
+            {
+                "patent_name": "System and method for assisting customers in accessing appropriate customer \u2026",
+                "score": 0.1745370775461197
+            },
+            {
+                "patent_name": "System and method for integrated virtual assistant-enhanced customer service",
+                "score": 0.13689899444580078
             }
         ]
     },
@@ -729,23 +729,23 @@
         "relevant_patents": [
             {
                 "patent_name": "A kind of complementary type green energy supply system",
-                "score": 0.15120448172092438
+                "score": 0.1779024600982666
             },
             {
                 "patent_name": "Systems and methods for sustainable economic development through integrated \u2026",
-                "score": 0.12904459238052368
+                "score": 0.1440030336380005
             },
             {
                 "patent_name": "Systems and methods for sustainable economic development through integrated \u2026",
-                "score": 0.12904459238052368
+                "score": 0.1440030336380005
             },
             {
                 "patent_name": "Increasing the efficiency of supplemented ocean thermal energy conversion ( \u2026",
-                "score": 0.11750312149524689
+                "score": 0.12940102815628052
             },
             {
-                "patent_name": "Systems and methods for processing mixed solid waste",
-                "score": 0.11638355255126953
+                "patent_name": "Distributed combined cooling heating and power system",
+                "score": 0.12334796041250229
             }
         ]
     },
@@ -754,23 +754,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Deep learning stock market prediction method combined with financial news",
-                "score": 0.09170421957969666
+                "score": 0.16127221286296844
             },
             {
                 "patent_name": "System and method of providing and recording personalized context-specific \u2026",
-                "score": 0.08444269746541977
+                "score": 0.14566773176193237
             },
             {
                 "patent_name": "A kind of Stock Market Forecasting method merged based on sentiment analysis \u2026",
-                "score": 0.04229702800512314
+                "score": 0.07438409328460693
             },
             {
                 "patent_name": "Smart city management method and system based on regional traffic synchronism",
-                "score": 0.029710181057453156
+                "score": 0.05231262743473053
             },
             {
                 "patent_name": "Intelligent personal information management system",
-                "score": 0.025864049792289734
+                "score": 0.04548725485801697
             }
         ]
     },
@@ -778,24 +778,24 @@
         "query": "Waste-to-Energy Conversion Technologies",
         "relevant_patents": [
             {
-                "patent_name": "Systems and methods for sustainable economic development through integrated \u2026",
-                "score": 0.0049449061043560505
+                "patent_name": "Electric bicycle capable of running for long distance",
+                "score": 0.11730728298425674
+            },
+            {
+                "patent_name": "Virtual assistants using state-based artificial intelligence",
+                "score": 0.008999629877507687
             },
             {
                 "patent_name": "Systems and methods for sustainable economic development through integrated \u2026",
-                "score": 0.0049449061043560505
+                "score": 0.004890907555818558
             },
             {
-                "patent_name": "Increasing the efficiency of supplemented ocean thermal energy conversion ( \u2026",
-                "score": 0.0033230814151465893
+                "patent_name": "Systems and methods for sustainable economic development through integrated \u2026",
+                "score": 0.004890907555818558
             },
             {
-                "patent_name": "Methods and systems for large scale carbon dioxide utilization from Lake Kivu \u2026",
-                "score": 0.0011759581975638866
-            },
-            {
-                "patent_name": "System and method of providing and recording personalized context-specific \u2026",
-                "score": 0.0010618452215567231
+                "patent_name": "Sorbent containing engineered fuel feed stock",
+                "score": 0.003892413107678294
             }
         ]
     },
@@ -804,23 +804,23 @@
         "relevant_patents": [
             {
                 "patent_name": "High-Capacity Storage of Digital Information in DNA",
-                "score": 0.8186759948730469
+                "score": 0.33325234055519104
+            },
+            {
+                "patent_name": "Three-dimensional spatial molecular indexing",
+                "score": 0.22173893451690674
+            },
+            {
+                "patent_name": "Systems and methods for storing and reading nucleic acid-based data with error \u2026",
+                "score": 0.1609484851360321
             },
             {
                 "patent_name": "Methods of Storing Information Using Nucleic Acids",
-                "score": 0.1844249963760376
+                "score": 0.14468124508857727
             },
             {
                 "patent_name": "Double selection hdr crispr-based editing",
-                "score": 0.14295129477977753
-            },
-            {
-                "patent_name": "Methods and kits for cloning-free genome editing",
-                "score": 0.11572065949440002
-            },
-            {
-                "patent_name": "Anti-crispr compounds and methods of use",
-                "score": 0.09072370827198029
+                "score": 0.11819476634263992
             }
         ]
     },
@@ -829,23 +829,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Wearable exoskeleton hip joint rehabilitation robot",
-                "score": 0.46841612458229065
+                "score": 0.4065927565097809
             },
             {
                 "patent_name": "A kind of flexible wearable ectoskeleton drive lacking is all referring to \u2026",
-                "score": 0.3757981061935425
+                "score": 0.32619884610176086
             },
             {
                 "patent_name": "Wearable hand mechanical exoskeleton with auxiliary grasping and rehabilitation \u2026",
-                "score": 0.2448088526725769
+                "score": 0.2124980390071869
             },
             {
                 "patent_name": "Exoskeleton wearable lower limb rehabilitation training robot device",
-                "score": 0.23623055219650269
+                "score": 0.20505192875862122
             },
             {
                 "patent_name": "Method and system for continuous monitoring of health parameters during \u2026",
-                "score": 0.20820672810077667
+                "score": 0.1807267963886261
             }
         ]
     },
@@ -854,23 +854,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Underwater robot-underwater mechanical arm system",
-                "score": 0.6823702454566956
+                "score": 0.3166005313396454
             },
             {
                 "patent_name": "Robot device for underwater observation and salvage rescue",
-                "score": 0.37110695242881775
-            },
-            {
-                "patent_name": "Recovery apparatus and allocated method",
-                "score": 0.25633862614631653
+                "score": 0.1684889793395996
             },
             {
                 "patent_name": "Underwater manipulator arm robot",
-                "score": 0.24360975623130798
+                "score": 0.16271334886550903
+            },
+            {
+                "patent_name": "An articulated submarine robot having a combined movement function of walking \u2026",
+                "score": 0.14362336695194244
             },
             {
                 "patent_name": "Full-sea-depth offshore bottom autonomous underwater robot structure",
-                "score": 0.2299388200044632
+                "score": 0.14225950837135315
             }
         ]
     },
@@ -879,23 +879,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Aerial farm robot system for crop dusting, planting, fertilizing and other \u2026",
-                "score": 0.344551682472229
+                "score": 0.2599668800830841
             },
             {
                 "patent_name": "Hybrid airship-drone farm robot system for crop dusting, planting, fertilizing \u2026",
-                "score": 0.294170081615448
+                "score": 0.2220507264137268
             },
             {
                 "patent_name": "Automatic system for navigation of an agricultural robot using pixhawk",
-                "score": 0.18460015952587128
+                "score": 0.13919037580490112
             },
             {
                 "patent_name": "Automated modular system for managing vertical farms",
-                "score": 0.13680914044380188
+                "score": 0.1034817099571228
             },
             {
                 "patent_name": "Central Processing Horticulture",
-                "score": 0.12217258661985397
+                "score": 0.09211935102939606
             }
         ]
     },
@@ -904,23 +904,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Method and apparatus for controlling smart home appliance, control device and \u2026",
-                "score": 0.6723231673240662
+                "score": 0.6028966307640076
             },
             {
                 "patent_name": "Intelligent home control system and method compatible with abnormal voice",
-                "score": 0.5341581106185913
+                "score": 0.3234482407569885
             },
             {
                 "patent_name": "Voice recognition method and device, storage medium, and air conditioner",
-                "score": 0.4905160069465637
+                "score": 0.29385292530059814
             },
             {
                 "patent_name": "Speaker identification method and system based on three-dimensional convolution \u2026",
-                "score": 0.27968597412109375
+                "score": 0.16960418224334717
             },
             {
-                "patent_name": "Voice wakeup method and apparatus",
-                "score": 0.225091814994812
+                "patent_name": "Customizing speech-recognition dictionaries in a smart-home environment",
+                "score": 0.16115456819534302
             }
         ]
     },
@@ -929,23 +929,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Electronic security keys for data security based on quantum particle states",
-                "score": 0.625174343585968
+                "score": 0.5308778285980225
             },
             {
                 "patent_name": "Electronic security keys for data security based on quantum particle states \u2026",
-                "score": 0.5099477767944336
+                "score": 0.4330497086048126
             },
             {
                 "patent_name": "Quantum computing on encrypted data",
-                "score": 0.48763802647590637
+                "score": 0.4141756296157837
             },
             {
                 "patent_name": "The One-Qubit Pad (OQP) for entanglement encryption of quantum information",
-                "score": 0.38585609197616577
+                "score": 0.327661395072937
             },
             {
                 "patent_name": "Systems and methods for quantum algorithm based optimization",
-                "score": 0.26353248953819275
+                "score": 0.22484838962554932
             }
         ]
     },
@@ -954,23 +954,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Drone based delivery system using vehicles",
-                "score": 0.5476126074790955
+                "score": 0.5375351905822754
             },
             {
                 "patent_name": "Smart drone rooftop and ground airport system",
-                "score": 0.42489489912986755
+                "score": 0.4170757830142975
             },
             {
                 "patent_name": "Modular delivery vehicle system",
-                "score": 0.34543660283088684
+                "score": 0.33907967805862427
             },
             {
                 "patent_name": "Receiving Appliance for Automated Deliveries",
-                "score": 0.3097933232784271
+                "score": 0.3043152689933777
             },
             {
                 "patent_name": "Solar energy systems",
-                "score": 0.26819661259651184
+                "score": 0.2632611393928528
             }
         ]
     },
@@ -979,23 +979,23 @@
         "relevant_patents": [
             {
                 "patent_name": "Method for synthesizing N, N' -dialkyl oxyaldehyde amide and derivatives \u2026",
-                "score": 0.22502441704273224
+                "score": 0.1625697761774063
             },
             {
                 "patent_name": "Systems and methods for sustainable economic development through integrated \u2026",
-                "score": 0.10345492511987686
+                "score": 0.07817886769771576
             },
             {
                 "patent_name": "Systems and methods for sustainable economic development through integrated \u2026",
-                "score": 0.10345492511987686
+                "score": 0.07817886769771576
             },
             {
                 "patent_name": "Use of oxyhydrogen microorganisms for non-photosynthetic carbon capture and \u2026",
-                "score": 0.09551593661308289
+                "score": 0.07148421555757523
             },
             {
                 "patent_name": "Methods and systems for large scale carbon dioxide utilization from Lake Kivu \u2026",
-                "score": 0.09051959961652756
+                "score": 0.06750844419002533
             }
         ]
     }

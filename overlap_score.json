@@ -6,7 +6,7 @@
         },
         {
             "query": "Solar Energy Systems",
-            "percentage_overlap": 60.0
+            "percentage_overlap": 40.0
         },
         {
             "query": "Autonomous Vehicles in Urban Environments",
@@ -18,7 +18,7 @@
         },
         {
             "query": "Machine Learning in Stock Market Prediction",
-            "percentage_overlap": 80.0
+            "percentage_overlap": 100.0
         },
         {
             "query": "Blockchain for Voting Systems",
@@ -58,7 +58,7 @@
         },
         {
             "query": "Virtual Reality in Surgical Training",
-            "percentage_overlap": 80.0
+            "percentage_overlap": 100.0
         },
         {
             "query": "Biodegradable Packaging Materials",
@@ -78,7 +78,7 @@
         },
         {
             "query": "Graphene Batteries in Electric Vehicles",
-            "percentage_overlap": 100.0
+            "percentage_overlap": 80.0
         },
         {
             "query": "Machine Learning in Cybersecurity Threat Detection",
@@ -90,7 +90,7 @@
         },
         {
             "query": "Robotics in Precision Agriculture",
-            "percentage_overlap": 40.0
+            "percentage_overlap": 80.0
         },
         {
             "query": "3D Bioprinting of Human Organs",
@@ -98,7 +98,7 @@
         },
         {
             "query": "Microplastic Removal Techniques in Oceans",
-            "percentage_overlap": 100.0
+            "percentage_overlap": 80.0
         },
         {
             "query": "Smart Cities and Traffic Management Systems",
@@ -110,15 +110,15 @@
         },
         {
             "query": "Space Tourism and Commercial Spaceflight",
-            "percentage_overlap": 40.0
+            "percentage_overlap": 20.0
         },
         {
             "query": "Virtual Assistants in Customer Service",
-            "percentage_overlap": 60.0
+            "percentage_overlap": 80.0
         },
         {
             "query": "Renewable Energy Integration in Grid Systems",
-            "percentage_overlap": 25.0
+            "percentage_overlap": 50.0
         },
         {
             "query": "AI-Powered Personal Finance Management",
@@ -130,7 +130,7 @@
         },
         {
             "query": "DNA Data Storage Technologies",
-            "percentage_overlap": 40.0
+            "percentage_overlap": 80.0
         },
         {
             "query": "Wearable Exoskeletons in Rehabilitation",
@@ -161,5 +161,5 @@
             "percentage_overlap": 75.0
         }
     ],
-    "aggregate_percentage": 64.0
+    "aggregate_percentage": 66.125
 }
