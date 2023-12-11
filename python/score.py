@@ -1,7 +1,7 @@
 import json
 
 def load_json_data(file_path):
-    with open(file_path, 'r') as file:
+    with open(f'json/{file_path}', 'r') as file:
         return json.load(file)
 
 def calculate_overlap(query_results, answer_key):
@@ -42,7 +42,7 @@ def main():
     overlap_scores, aggregate_percentage = calculate_overlap(query_results, answer_key)
 
     # Save results to a JSON file
-    with open('overlap_score.json', 'w') as file:
+    with open('json/overlap_score.json', 'w') as file:
         json.dump({
             "individual_overlap_scores": overlap_scores,
             "aggregate_percentage": aggregate_percentage
