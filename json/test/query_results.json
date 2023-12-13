@@ -1,0 +1,852 @@
+[
+    {
+        "query": "AI-Powered Personal Finance Management",
+        "relevant_patents": [
+            {
+                "patent_name": "System and method of providing and recording personalized context-specific \u2026",
+                "score": 0.18327701091766357
+            },
+            {
+                "patent_name": "Intelligent personal information management system",
+                "score": 0.053506530821323395
+            },
+            {
+                "patent_name": "Artificial intelligence accountability platform and extensions",
+                "score": 0.04173696041107178
+            },
+            {
+                "patent_name": "Artificial intelligence assisted service provisioning and modification for \u2026",
+                "score": 0.03847550228238106
+            },
+            {
+                "patent_name": "System and method for effectuating user access control",
+                "score": 0.02297305129468441
+            },
+            {
+                "patent_name": "User media platform server system",
+                "score": 0.022648081183433533
+            },
+            {
+                "patent_name": "Shading system including voice recognition or artificial intelligent \u2026",
+                "score": 0.021297428756952286
+            },
+            {
+                "patent_name": "Autonomous exchange via entrusted ledger token and transaction management",
+                "score": 0.02115749381482601
+            },
+            {
+                "patent_name": "Systems, methods, and devices for an enterprise AI and internet-of-things \u2026",
+                "score": 0.019318310543894768
+            },
+            {
+                "patent_name": "Mobile electric vehicle charging station system",
+                "score": 0.019119419157505035
+            },
+            {
+                "patent_name": "Enterprise Consumer Safety System",
+                "score": 0.018396001309156418
+            },
+            {
+                "patent_name": "Autonomous exchange via entrusted ledger key management",
+                "score": 0.015871915966272354
+            },
+            {
+                "patent_name": "Autonomous exchange via entrusted ledger immutable distributed database",
+                "score": 0.015845365822315216
+            },
+            {
+                "patent_name": "Building system for cascading flows of matter and energy",
+                "score": 0.014966174028813839
+            },
+            {
+                "patent_name": "Fuzzy dataset processing and biometric identity technology leveraging \u2026",
+                "score": 0.014326049946248531
+            },
+            {
+                "patent_name": "Autonomous exchange via entrusted ledger application specific wallet",
+                "score": 0.013977672904729843
+            },
+            {
+                "patent_name": "Method and system for requesting social services from group of users",
+                "score": 0.013615682721138
+            },
+            {
+                "patent_name": "Information recording device and information recording method",
+                "score": 0.01327088288962841
+            },
+            {
+                "patent_name": "Medical systems, devices and methods",
+                "score": 0.013196468353271484
+            },
+            {
+                "patent_name": "Autonomous exchange via entrusted ledger wallet administration tool",
+                "score": 0.012591228820383549
+            }
+        ]
+    },
+    {
+        "query": "Waste-to-Energy Conversion Technologies",
+        "relevant_patents": [
+            {
+                "patent_name": "Mitigation of harmful combustion emissions using sorbent containing engineered \u2026",
+                "score": 0.006590160075575113
+            },
+            {
+                "patent_name": "Sorbent containing engineered fuel feed stock",
+                "score": 0.005297468043863773
+            },
+            {
+                "patent_name": "Delivery of food items by aerial or ground drones to and from delivery vehicles",
+                "score": 0.004991796799004078
+            },
+            {
+                "patent_name": "Method for reducing NOx emissions from gasification power plants",
+                "score": 0.004846347961574793
+            },
+            {
+                "patent_name": "Systems and methods for sustainable economic development through integrated \u2026",
+                "score": 0.004489405546337366
+            },
+            {
+                "patent_name": "System and method for biomass growth and processing",
+                "score": 0.003673850791528821
+            },
+            {
+                "patent_name": "Carbon-based durable goods and renewable fuel from biomass waste dissociation",
+                "score": 0.0035256578121334314
+            },
+            {
+                "patent_name": "Carbon-based durable goods and renewable fuel from biomass waste dissociation",
+                "score": 0.003345426870509982
+            },
+            {
+                "patent_name": "Super system on chip",
+                "score": 0.0032567994203418493
+            },
+            {
+                "patent_name": "Display device",
+                "score": 0.0028447515796869993
+            },
+            {
+                "patent_name": "Increasing the efficiency of supplemented ocean thermal energy conversion ( \u2026",
+                "score": 0.0027892417274415493
+            },
+            {
+                "patent_name": "Wearable hand mechanical exoskeleton with auxiliary grasping and rehabilitation \u2026",
+                "score": 0.0027826065197587013
+            },
+            {
+                "patent_name": "Building system for cascading flows of matter and energy",
+                "score": 0.0026899848598986864
+            },
+            {
+                "patent_name": "Energy process handling system, assembly, and apparatus, and method of using or \u2026",
+                "score": 0.002593876328319311
+            },
+            {
+                "patent_name": "Aerial drone-based systems and methods for adaptively providing an aerial \u2026",
+                "score": 0.002507681492716074
+            },
+            {
+                "patent_name": "Ethanol production in microorganisms",
+                "score": 0.0022251871414482594
+            },
+            {
+                "patent_name": "Three-dimensional space maneuvering bionic robot fish and buoyancy adjusting \u2026",
+                "score": 0.0022151009179651737
+            },
+            {
+                "patent_name": "Electromagnetic pulse (EMP) hardened information infrastructure with extractor, \u2026",
+                "score": 0.002140825381502509
+            },
+            {
+                "patent_name": "Remote control Weeder",
+                "score": 0.002123781479895115
+            },
+            {
+                "patent_name": "Use of oxyhydrogen microorganisms for non-photosynthetic carbon capture and \u2026",
+                "score": 0.002078347373753786
+            }
+        ]
+    },
+    {
+        "query": "DNA Data Storage Technologies",
+        "relevant_patents": [
+            {
+                "patent_name": "High-Capacity Storage of Digital Information in DNA",
+                "score": 0.3331303596496582
+            },
+            {
+                "patent_name": "Methods and systems for dna data storage",
+                "score": 0.3006543219089508
+            },
+            {
+                "patent_name": "Methods, compositions, and devices for information storage",
+                "score": 0.20806168019771576
+            },
+            {
+                "patent_name": "Three-dimensional spatial molecular indexing",
+                "score": 0.20756268501281738
+            },
+            {
+                "patent_name": "Systems and methods for storing and reading nucleic acid-based data with error \u2026",
+                "score": 0.15611639618873596
+            },
+            {
+                "patent_name": "Ethanol production in microorganisms",
+                "score": 0.15551038086414337
+            },
+            {
+                "patent_name": "Storage through iterative dna editing",
+                "score": 0.153843492269516
+            },
+            {
+                "patent_name": "Fuzzy dataset processing and biometric identity technology leveraging \u2026",
+                "score": 0.14381496608257294
+            },
+            {
+                "patent_name": "Methods of Storing Information Using Nucleic Acids",
+                "score": 0.14252570271492004
+            },
+            {
+                "patent_name": "Homopolymer encoded nucleic acid memory",
+                "score": 0.116645947098732
+            },
+            {
+                "patent_name": "Integration of sample storage and sample management for life science",
+                "score": 0.11417114734649658
+            },
+            {
+                "patent_name": "DNA data storage coding decoding method",
+                "score": 0.08855316042900085
+            },
+            {
+                "patent_name": "Methods for RNA quantification",
+                "score": 0.07991795241832733
+            },
+            {
+                "patent_name": "Portable and low-error DNA-based data storage",
+                "score": 0.07208713889122009
+            },
+            {
+                "patent_name": "Super system on chip",
+                "score": 0.05798272043466568
+            },
+            {
+                "patent_name": "Atom-dispersed water oxidation catalyst and preparation and application thereof",
+                "score": 0.05326185002923012
+            },
+            {
+                "patent_name": "Use of oxyhydrogen microorganisms for non-photosynthetic carbon capture and \u2026",
+                "score": 0.042659591883420944
+            },
+            {
+                "patent_name": "Hydrothermal technology for decontamination and mineralization of perfluoro- \u2026",
+                "score": 0.04225766658782959
+            },
+            {
+                "patent_name": "For data gathering system related or industrial environment with chemical \u2026",
+                "score": 0.03548843786120415
+            },
+            {
+                "patent_name": "DNA-based digital information storage with sidewall electrodes",
+                "score": 0.03445541113615036
+            }
+        ]
+    },
+    {
+        "query": "Wearable Exoskeletons in Rehabilitation",
+        "relevant_patents": [
+            {
+                "patent_name": "Wearable exoskeleton hip joint rehabilitation robot",
+                "score": 0.3395366072654724
+            },
+            {
+                "patent_name": "Micro-intelligent exoskeleton finger recovery robot",
+                "score": 0.27203649282455444
+            },
+            {
+                "patent_name": "A kind of flexible wearable ectoskeleton drive lacking is all referring to \u2026",
+                "score": 0.2534979581832886
+            },
+            {
+                "patent_name": "A kind of ectoskeleton drive lacking is all referring to training \u2026",
+                "score": 0.2338545024394989
+            },
+            {
+                "patent_name": "Exoskeleton wearable lower limb rehabilitation training robot device",
+                "score": 0.18932132422924042
+            },
+            {
+                "patent_name": "External skeleton wearable type lower limb rehabilitation training robot device",
+                "score": 0.1851252168416977
+            },
+            {
+                "patent_name": "A kind of rehabilitation exoskeleton robot convenient for wearing",
+                "score": 0.16699907183647156
+            },
+            {
+                "patent_name": "Wearable hand mechanical exoskeleton with auxiliary grasping and rehabilitation \u2026",
+                "score": 0.16633012890815735
+            },
+            {
+                "patent_name": "Human lower extremity exoskeleton walking aid rehabilitation robot",
+                "score": 0.1381690800189972
+            },
+            {
+                "patent_name": "Wearable exoskeleton lower limb rehabilitation robot",
+                "score": 0.1262681931257248
+            },
+            {
+                "patent_name": "Lower limb exoskeleton walking rehabilitation robot",
+                "score": 0.12281487137079239
+            },
+            {
+                "patent_name": "Multifunctional hand rehabilitation training device",
+                "score": 0.10407707095146179
+            },
+            {
+                "patent_name": "Wearable Multifunctional Powered Exoskeleton for Cervical Vertebra \u2026",
+                "score": 0.09752526879310608
+            },
+            {
+                "patent_name": "Gait rehabilitation training robot",
+                "score": 0.09710149466991425
+            },
+            {
+                "patent_name": "Wearable adjustable lower limb rehabilitation training robot device",
+                "score": 0.07725951075553894
+            },
+            {
+                "patent_name": "Wearable and portable hand rehabilitation training device",
+                "score": 0.07083967328071594
+            },
+            {
+                "patent_name": "Wearable bionic hydraulic lower limb rehabilitation walking-assisting \u2026",
+                "score": 0.06833189725875854
+            },
+            {
+                "patent_name": "Mechanical structure of lower limb walking trainer capable of being spliced and \u2026",
+                "score": 0.0632096454501152
+            },
+            {
+                "patent_name": "Parallel low limbs ectoskeleton rehabilitation training device",
+                "score": 0.04498276859521866
+            },
+            {
+                "patent_name": "Carbon-based durable goods and renewable fuel from biomass waste dissociation",
+                "score": 0.04061499983072281
+            }
+        ]
+    },
+    {
+        "query": "Underwater Robotics for Marine Research",
+        "relevant_patents": [
+            {
+                "patent_name": "Underwater robot-underwater mechanical arm system",
+                "score": 0.23918302357196808
+            },
+            {
+                "patent_name": "Sound/light/magnetism comprehensive detection type unmanned underwater vehicle",
+                "score": 0.1671058088541031
+            },
+            {
+                "patent_name": "Glass sphere type pressure housing including titanium band and a multi-joint \u2026",
+                "score": 0.15380659699440002
+            },
+            {
+                "patent_name": "One is unmanned cable man-controlled mobile robot under water",
+                "score": 0.12883959710597992
+            },
+            {
+                "patent_name": "Robot device for underwater observation and salvage rescue",
+                "score": 0.11914246529340744
+            },
+            {
+                "patent_name": "Robot device for underwater observation and salvage rescue",
+                "score": 0.1090824156999588
+            },
+            {
+                "patent_name": "An articulated submarine robot having a combined movement function of walking \u2026",
+                "score": 0.09328576922416687
+            },
+            {
+                "patent_name": "Full-sea-depth offshore bottom autonomous underwater robot structure",
+                "score": 0.08853575587272644
+            },
+            {
+                "patent_name": "Underwater manipulator arm robot",
+                "score": 0.08812730014324188
+            },
+            {
+                "patent_name": "Recovery apparatus and allocated method",
+                "score": 0.08428985625505447
+            },
+            {
+                "patent_name": "Manoeuvring device and method therof",
+                "score": 0.08027008920907974
+            },
+            {
+                "patent_name": "Unmanned underwater vehicle and method for recovering such vehicle",
+                "score": 0.07893884927034378
+            },
+            {
+                "patent_name": "Multi-legged flying seabed robot capable of performing underwater flying",
+                "score": 0.07254853844642639
+            },
+            {
+                "patent_name": "A multi-legged seabed walking robot for survey of high current and high \u2026",
+                "score": 0.05218859389424324
+            },
+            {
+                "patent_name": "Seabed survey system using multi-legged underwater robot with hybrid moving \u2026",
+                "score": 0.05183315649628639
+            },
+            {
+                "patent_name": "Control architecture for multi-robot system",
+                "score": 0.051705993711948395
+            },
+            {
+                "patent_name": "Quantum imaging for underwater arctic navigation",
+                "score": 0.044437360018491745
+            },
+            {
+                "patent_name": "Three-dimensional space maneuvering bionic robot fish and buoyancy adjusting \u2026",
+                "score": 0.04189525917172432
+            },
+            {
+                "patent_name": "Autonomous mobile platform with harvesting system and pest and weed suppression \u2026",
+                "score": 0.04045911878347397
+            },
+            {
+                "patent_name": "Robot for farm work and method of controlling the same",
+                "score": 0.039147816598415375
+            }
+        ]
+    },
+    {
+        "query": "Autonomous Farming Machinery",
+        "relevant_patents": [
+            {
+                "patent_name": "Automated farming systems",
+                "score": 0.3123219311237335
+            },
+            {
+                "patent_name": "Automated farming systems",
+                "score": 0.2956584095954895
+            },
+            {
+                "patent_name": "Agricultural machine control system and agriculture management system",
+                "score": 0.10132274031639099
+            },
+            {
+                "patent_name": "Agricultural work vehicle",
+                "score": 0.061649736016988754
+            },
+            {
+                "patent_name": "Robotic platform and method for performing multiple functions in agricultural \u2026",
+                "score": 0.0538620688021183
+            },
+            {
+                "patent_name": "Recovery apparatus and allocated method",
+                "score": 0.050914738327264786
+            },
+            {
+                "patent_name": "Autonomous robotic agricultural machine and system thereof",
+                "score": 0.037728600203990936
+            },
+            {
+                "patent_name": "Robotic platform and method for performing multiple functions in agricultural \u2026",
+                "score": 0.035665810108184814
+            },
+            {
+                "patent_name": "Autonomous mobile platform with harvesting system and pest and weed suppression \u2026",
+                "score": 0.031045248731970787
+            },
+            {
+                "patent_name": "Implement attachment apparatus and power take-off",
+                "score": 0.02978501468896866
+            },
+            {
+                "patent_name": "Robot for farm work and method of controlling the same",
+                "score": 0.02791266143321991
+            },
+            {
+                "patent_name": "Real-time thermal camera based odometry and navigation systems and methods",
+                "score": 0.022723596543073654
+            },
+            {
+                "patent_name": "Autonomous agricultural observation and precision treatment system",
+                "score": 0.01996375061571598
+            },
+            {
+                "patent_name": "Remote control Weeder",
+                "score": 0.019959628582000732
+            },
+            {
+                "patent_name": "Implement Attachment Apparatus, Power Take-Off With Safety System and Method \u2026",
+                "score": 0.019445102661848068
+            },
+            {
+                "patent_name": "Precision agricultural treatment based on growth stage in real time",
+                "score": 0.01911550760269165
+            },
+            {
+                "patent_name": "Autonomous agricultural treatment system using map based targeting of \u2026",
+                "score": 0.018757710233330727
+            },
+            {
+                "patent_name": "Delivery of food items by aerial or ground drones to and from delivery vehicles",
+                "score": 0.017828702926635742
+            },
+            {
+                "patent_name": "System and method for autonomous harvester installation and farm harvesting \u2026",
+                "score": 0.01682876981794834
+            },
+            {
+                "patent_name": "Full-sea-depth offshore bottom autonomous underwater robot structure",
+                "score": 0.01504529919475317
+            }
+        ]
+    },
+    {
+        "query": "Voice Recognition Technology in Smart Homes",
+        "relevant_patents": [
+            {
+                "patent_name": "Method and apparatus for controlling smart home appliance, control device and \u2026",
+                "score": 0.5680668354034424
+            },
+            {
+                "patent_name": "Sound source positioning-based voice recognition method and system, and \u2026",
+                "score": 0.47788161039352417
+            },
+            {
+                "patent_name": "Gateway, smart home system and smart control method of home appliance thereof",
+                "score": 0.347751259803772
+            },
+            {
+                "patent_name": "Intelligent home control system and method compatible with abnormal voice",
+                "score": 0.28609567880630493
+            },
+            {
+                "patent_name": "Voice processing method, device, medium and electronic equipment",
+                "score": 0.17013895511627197
+            },
+            {
+                "patent_name": "Customizing speech-recognition dictionaries in a smart-home environment",
+                "score": 0.16812071204185486
+            },
+            {
+                "patent_name": "Privacy-aware personalized content for the smart home",
+                "score": 0.1636757254600525
+            },
+            {
+                "patent_name": "Speaker identification method and system based on three-dimensional convolution \u2026",
+                "score": 0.14991608262062073
+            },
+            {
+                "patent_name": "A kind of voice gate inhibition and quiet environment monitoring method and \u2026",
+                "score": 0.14163783192634583
+            },
+            {
+                "patent_name": "Voice wakeup method and apparatus",
+                "score": 0.11822157353162766
+            },
+            {
+                "patent_name": "A smart home appliance, a method for operating the same and a system for voice \u2026",
+                "score": 0.11139219999313354
+            },
+            {
+                "patent_name": "A kind of smart home multi-user identification and its Rights Management System",
+                "score": 0.1034194827079773
+            },
+            {
+                "patent_name": "Method for performing speech recognition based on self-adaptive language, and \u2026",
+                "score": 0.09989437460899353
+            },
+            {
+                "patent_name": "Sound signature database for initialization of noise reduction in recordings",
+                "score": 0.09932504594326019
+            },
+            {
+                "patent_name": "Smart home voice control system combined with video channel and control method \u2026",
+                "score": 0.0878964364528656
+            },
+            {
+                "patent_name": "Speech recognition method, server and computer-readable storage medium",
+                "score": 0.07518337666988373
+            },
+            {
+                "patent_name": "Voice recognition apparatus and home appliance system",
+                "score": 0.060617595911026
+            },
+            {
+                "patent_name": "Multi-dimensional user identity identification method",
+                "score": 0.058783452957868576
+            },
+            {
+                "patent_name": "Smart drone rooftop and ground airport system",
+                "score": 0.05829974263906479
+            },
+            {
+                "patent_name": "Systems, methods, and devices for an enterprise AI and internet-of-things \u2026",
+                "score": 0.04922358691692352
+            }
+        ]
+    },
+    {
+        "query": "Quantum Sensors in Navigation Systems",
+        "relevant_patents": [
+            {
+                "patent_name": "Systems and methods for real-time quantum computer-based control of mobile \u2026",
+                "score": 0.4347168505191803
+            },
+            {
+                "patent_name": "Display device",
+                "score": 0.19777700304985046
+            },
+            {
+                "patent_name": "Computing system",
+                "score": 0.1815910041332245
+            },
+            {
+                "patent_name": "Method and apparatus for minimizing power consumption in a navigation system",
+                "score": 0.1758260279893875
+            },
+            {
+                "patent_name": "Room-temperature exciton-polariton superfluid quantum interference device and \u2026",
+                "score": 0.15866772830486298
+            },
+            {
+                "patent_name": "Quantum imaging for underwater arctic navigation",
+                "score": 0.14610902965068817
+            },
+            {
+                "patent_name": "Super system on chip",
+                "score": 0.1100710779428482
+            },
+            {
+                "patent_name": "Medical systems, devices and methods",
+                "score": 0.06979077309370041
+            },
+            {
+                "patent_name": "For data gathering system related or industrial environment with chemical \u2026",
+                "score": 0.06662032008171082
+            },
+            {
+                "patent_name": "Methods and device for self-organization of data collection",
+                "score": 0.0645831972360611
+            },
+            {
+                "patent_name": "For selecting navigation routine and providing the method and system along road \u2026",
+                "score": 0.062360651791095734
+            },
+            {
+                "patent_name": "Method and apparatus for software update of embedded vehicle systems",
+                "score": 0.06188547611236572
+            },
+            {
+                "patent_name": "Robot for farm work and method of controlling the same",
+                "score": 0.05505325645208359
+            },
+            {
+                "patent_name": "Robotic platform and method for performing multiple functions in agricultural \u2026",
+                "score": 0.04475065693259239
+            },
+            {
+                "patent_name": "Real-time thermal camera based odometry and navigation systems and methods",
+                "score": 0.04427291080355644
+            },
+            {
+                "patent_name": "Apparatus and system to manage monitored vehicular flow rate",
+                "score": 0.044177427887916565
+            },
+            {
+                "patent_name": "Providing a confidence-based road event message",
+                "score": 0.03418806940317154
+            },
+            {
+                "patent_name": "The system and method for storage and calling station data",
+                "score": 0.03191739693284035
+            },
+            {
+                "patent_name": "Modular delivery vehicle system",
+                "score": 0.031151803210377693
+            },
+            {
+                "patent_name": "Customizing speech-recognition dictionaries in a smart-home environment",
+                "score": 0.02983953058719635
+            }
+        ]
+    },
+    {
+        "query": "Drone Delivery Systems in Logistics",
+        "relevant_patents": [
+            {
+                "patent_name": "Method and system for drone deliveries to vehicles in route",
+                "score": 0.49647969007492065
+            },
+            {
+                "patent_name": "Drone based delivery system using vehicles",
+                "score": 0.48355209827423096
+            },
+            {
+                "patent_name": "Modular delivery vehicle system",
+                "score": 0.35579267144203186
+            },
+            {
+                "patent_name": "Smart drone rooftop and ground airport system",
+                "score": 0.3464541435241699
+            },
+            {
+                "patent_name": "Delivery of food items by aerial or ground drones to and from delivery vehicles",
+                "score": 0.2905711829662323
+            },
+            {
+                "patent_name": "Receiving Appliance for Automated Deliveries",
+                "score": 0.27271074056625366
+            },
+            {
+                "patent_name": "Aerial drone-based systems and methods for adaptively providing an aerial \u2026",
+                "score": 0.23727956414222717
+            },
+            {
+                "patent_name": "Unmanned Aerial Delivery System",
+                "score": 0.21393468976020813
+            },
+            {
+                "patent_name": "Vehicle-mounted storage and distribution integrated logistics distribution \u2026",
+                "score": 0.1804320216178894
+            },
+            {
+                "patent_name": "Transportation using network of unmanned aerial vehicles",
+                "score": 0.15706689655780792
+            },
+            {
+                "patent_name": "Method and system for generating delivery estimates",
+                "score": 0.14506842195987701
+            },
+            {
+                "patent_name": "Managing dynamic obstructions in air traffic control systems for passenger \u2026",
+                "score": 0.12214488536119461
+            },
+            {
+                "patent_name": "Enriched Logistics System for Unmanned Vehicle Delivery of Parcels",
+                "score": 0.09912668168544769
+            },
+            {
+                "patent_name": "Drive-thru / point-of-sale automated transaction technologies and apparatus",
+                "score": 0.08683799207210541
+            },
+            {
+                "patent_name": "Drone air traffic control over wireless networks for package pickup and \u2026",
+                "score": 0.0786784440279007
+            },
+            {
+                "patent_name": "Drive-thru / point-of-sale automated transaction technologies and apparatus",
+                "score": 0.07487697154283524
+            },
+            {
+                "patent_name": "Article distribution method and device, e-commerce system and storage medium",
+                "score": 0.06828764081001282
+            },
+            {
+                "patent_name": "Systems and methods for identifying undue dust conditions",
+                "score": 0.06454293429851532
+            },
+            {
+                "patent_name": "System and method for object shipping automation",
+                "score": 0.05227213352918625
+            },
+            {
+                "patent_name": "Computing system",
+                "score": 0.04095711559057236
+            }
+        ]
+    },
+    {
+        "query": "Artificial Photosynthesis for Carbon Capture",
+        "relevant_patents": [
+            {
+                "patent_name": "Fruit tree recarburization device and use method",
+                "score": 0.12490731477737427
+            },
+            {
+                "patent_name": "Method for synthesizing N, N' -dialkyl oxyaldehyde amide and derivatives \u2026",
+                "score": 0.10960701107978821
+            },
+            {
+                "patent_name": "Carbon-based durable goods and renewable fuel from biomass waste dissociation",
+                "score": 0.09482759982347488
+            },
+            {
+                "patent_name": "Carbon-based durable goods and renewable fuel from biomass waste dissociation",
+                "score": 0.09281658381223679
+            },
+            {
+                "patent_name": "DNA data storage coding decoding method",
+                "score": 0.0925867035984993
+            },
+            {
+                "patent_name": "Systems and methods for sustainable economic development through integrated \u2026",
+                "score": 0.0734473392367363
+            },
+            {
+                "patent_name": "Use of oxyhydrogen microorganisms for non-photosynthetic carbon capture and \u2026",
+                "score": 0.06422480940818787
+            },
+            {
+                "patent_name": "Methods and systems for large scale carbon dioxide utilization from Lake Kivu \u2026",
+                "score": 0.05662474408745766
+            },
+            {
+                "patent_name": "Methods and systems for large scale carbon dioxide utilization from Lake Kivu \u2026",
+                "score": 0.05662474408745766
+            },
+            {
+                "patent_name": "Process and apparatus for carbon capture and elimination of multi-pollutants in \u2026",
+                "score": 0.04837419092655182
+            },
+            {
+                "patent_name": "Atom-dispersed water oxidation catalyst and preparation and application thereof",
+                "score": 0.04588808864355087
+            },
+            {
+                "patent_name": "Method for adjusting and controlling carbon dioxide and oxygen balance in \u2026",
+                "score": 0.04538310319185257
+            },
+            {
+                "patent_name": "Integrated carbon capture and algae culture",
+                "score": 0.04397714510560036
+            },
+            {
+                "patent_name": "Bio-Breeder System for Biomass Production",
+                "score": 0.03101186454296112
+            },
+            {
+                "patent_name": "Control system for the conversion of carbonaceous feedstock into gas",
+                "score": 0.026970837265253067
+            },
+            {
+                "patent_name": "Building system for cascading flows of matter and energy",
+                "score": 0.026811551302671432
+            },
+            {
+                "patent_name": "Apparatus and method for conversion of solid waste into synthetic oil, gas, and \u2026",
+                "score": 0.026406873017549515
+            },
+            {
+                "patent_name": "Methods of growing cannabaceae plants using artificial lighting",
+                "score": 0.024291619658470154
+            },
+            {
+                "patent_name": "Carbon sequestration process",
+                "score": 0.02234504371881485
+            },
+            {
+                "patent_name": "Methods for manufacturing photoelectrosynthetically active heterostructures",
+                "score": 0.022161781787872314
+            }
+        ]
+    }
+]

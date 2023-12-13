@@ -1,0 +1,45 @@
+{
+    "average_precision": [
+        {
+            "query": "AI-Powered Personal Finance Management",
+            "average_precision": 0.693262887905745
+        },
+        {
+            "query": "Waste-to-Energy Conversion Technologies",
+            "average_precision": 0.19140646526675936
+        },
+        {
+            "query": "DNA Data Storage Technologies",
+            "average_precision": 0.6501662406176011
+        },
+        {
+            "query": "Wearable Exoskeletons in Rehabilitation",
+            "average_precision": 0.6779243030791019
+        },
+        {
+            "query": "Underwater Robotics for Marine Research",
+            "average_precision": 0.5762502001782187
+        },
+        {
+            "query": "Autonomous Farming Machinery",
+            "average_precision": 0.4917507646674313
+        },
+        {
+            "query": "Voice Recognition Technology in Smart Homes",
+            "average_precision": 0.5445126300428159
+        },
+        {
+            "query": "Quantum Sensors in Navigation Systems",
+            "average_precision": 0.266804989881913
+        },
+        {
+            "query": "Drone Delivery Systems in Logistics",
+            "average_precision": 0.7794436591005219
+        },
+        {
+            "query": "Artificial Photosynthesis for Carbon Capture",
+            "average_precision": 0.5144294006013902
+        }
+    ],
+    "MAP-Score": 0.5385951541341498
+}
