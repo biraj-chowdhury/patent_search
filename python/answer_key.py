@@ -69,7 +69,7 @@ def process_patents(patents_data, queries):
 def main():
     # Load the patent data from the JSON file
     try:
-        with open('json/patents_test_data.json', 'r') as file:
+        with open('json/dev/patents_dev_data.json', 'r') as file:
             patents_data = json.load(file)
     except FileNotFoundError:
         print("File patents_test_data.json not found.")
@@ -82,7 +82,7 @@ def main():
     answer_key = [{"query": query, "patents": patents} for query, patents in results.items()]
 
     # Save the results to answer_key.json
-    with open('json/answer_key.json', 'w') as file:
+    with open('json/dev/answer_key.json', 'w') as file:
         json.dump(answer_key, file, indent=4)
 
     print("answer_key.json has been created.")

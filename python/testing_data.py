@@ -147,8 +147,8 @@ def main():
         all_patents_data.extend(patents_data)
 
     # Saving all data to a JSON file
-    with open('json/patents_test_data.json', 'w', encoding='utf-8') as f:
-        json.dump(all_patents_data, f, ensure_ascii=False, indent=4)
+    with open('json/test/patents_train_data.json', 'w', encoding='utf-8') as f:
+        json.dump(all_patents_data, f, ensure_ascii=False, indent=2)
 
 
 if __name__ == "__main__":

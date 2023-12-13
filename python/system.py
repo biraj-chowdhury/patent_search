@@ -55,7 +55,7 @@ def preprocess_text(text, stemmer, stop_words):
     return filtered_tokens
 
 def fetch_data_from_json(json_file):
-    with open(f'json/{json_file}', 'r') as file:
+    with open(f'{json_file}', 'r') as file:
         return json.load(file)
 
 # MongoDB connection details
@@ -106,7 +106,7 @@ def main():
     queries = [query.strip() for query in queries]
 
     # Number of top patents to retrieve for each query
-    top_n = 5
+    top_n = 20
 
     # Store query results in a structured format
     query_results = []
@@ -140,7 +140,7 @@ def main():
         })
 
     # Save query results to a JSON file
-    with open('json/query_results.json', 'w') as file:
+    with open('json/test/query_results.json', 'w') as file:
         json.dump(query_results, file, indent=4)
 
     print("query_results.json has been created.")
