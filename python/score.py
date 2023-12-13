@@ -1,7 +1,7 @@
 import json
 
-def load_json_data(file_path):
-    with open(f'json/{file_path}', 'r') as file:
+def load_json_data(filename):
+    with open(f'json/test/{filename}', 'r') as file:
         return json.load(file)
 
 def calculate_overlap(query_results, answer_key):
@@ -33,22 +33,60 @@ def calculate_overlap(query_results, answer_key):
     
     return overlap_scores, aggregate_percentage
 
+def calc_average_precision_and_map_score(query_results, answer_key) -> float:
+    AP_scores = []
+
+    query_set = set()
+    answer_set = set()
+    for query_result, answer in zip(query_results, answer_key):
+        average_precision = 0
+        for retrieved_patent, relevant_patent in zip(query_result['relevant_patents'], answer['patents']):
+            query_set.add(retrieved_patent['patent_name'])
+            answer_set.add(relevant_patent['patent_name'])
+
+            overlap = len(query_set.intersection(answer_set))
+            total = len(answer_set)
+
+            average_precision += (overlap / total)
+        
+        average_precision /= len(answer['patents'])
+        query_set.clear()
+        answer_set.clear()
+
+        AP_scores.append({
+            "query": query_result['query'],
+            "average_precision": average_precision
+        })
+
+    map_score = sum(ap['average_precision'] for ap in AP_scores) / len(AP_scores)
+    return AP_scores, map_score
+
 def main():
     # Load data from JSON files
     query_results = load_json_data('query_results.json')
-    answer_key = load_json_data('answer_key.json')
+    answer_key = load_json_data('manually_annotated_answer_key.json')
 
     # Calculate overlap scores
-    overlap_scores, aggregate_percentage = calculate_overlap(query_results, answer_key)
+    # overlap_scores, aggregate_percentage = calculate_overlap(query_results, answer_key)
+
+    # # Save results to a JSON file
+    # with open('overlap_score.json', 'w') as file:
+    #     json.dump({
+    #         "individual_overlap_scores": overlap_scores,
+    #         "aggregate_percentage": aggregate_percentage
+    #     }, file, indent=4)
+
+    # Calculate Average-Precision per query and MAP-Score
+    ap_scores, map_score = calc_average_precision_and_map_score(query_results, answer_key)
 
     # Save results to a JSON file
-    with open('json/overlap_score.json', 'w') as file:
+    with open('json/test/scores.json', 'w') as file:
         json.dump({
-            "individual_overlap_scores": overlap_scores,
-            "aggregate_percentage": aggregate_percentage
+            "average_precision": ap_scores,
+            "MAP-Score": map_score
         }, file, indent=4)
 
-    print("Overlap scores have been saved to overlap_score.json")
+    print("Evaluation metrics saved to scores.json")
 
 if __name__ == "__main__":
     main()
