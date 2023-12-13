@@ -1,0 +1,2596 @@
+[
+    {
+        "query": "Artificial Intelligence",
+        "patents": [
+            {
+                "patent_name": "Control tower and enterprise management platform with a machine learning/ \u2026",
+                "patent_number": "patent/US20210133670A1/en",
+                "date_produced": "2020-12-04",
+                "rank": 1
+            },
+            {
+                "patent_name": "Machine Learning Models In An Artificial Intelligence Infrastructure",
+                "patent_number": "patent/US20220253443A1/en",
+                "date_produced": "2022-04-26",
+                "rank": 2
+            },
+            {
+                "patent_name": "\u2026 a transformed dataset for use by a machine learning model in an artificial \u2026",
+                "patent_number": "patent/US11768636B2/en",
+                "date_produced": "2022-12-27",
+                "rank": 3
+            },
+            {
+                "patent_name": "Unified nonlinear modeling approach for machine learning and artificial \u2026",
+                "patent_number": "patent/US10755188B2/en",
+                "date_produced": "2018-10-16",
+                "rank": 4
+            },
+            {
+                "patent_name": "Robot Fleet Management Configured for Use of an Artificial Intelligence Chipset",
+                "patent_number": "patent/US20230341850A1/en",
+                "date_produced": "2023-06-12",
+                "rank": 5
+            },
+            {
+                "patent_name": "Generating artificial intelligence solutions using raw data and simulated data",
+                "patent_number": "patent/US11227187B1/en",
+                "date_produced": "2020-05-21",
+                "rank": 6
+            },
+            {
+                "patent_name": "Artificial intelligence system for control tower and enterprise management \u2026",
+                "patent_number": "patent/US20220058569A1/en",
+                "date_produced": "2021-08-30",
+                "rank": 7
+            },
+            {
+                "patent_name": "Artificial intelligence apparatus and method for updating artificial \u2026",
+                "patent_number": "patent/US11663516B2/en",
+                "date_produced": "2019-10-15",
+                "rank": 8
+            },
+            {
+                "patent_name": "Artificial intelligence communication assistance for providing communication \u2026",
+                "patent_number": "patent/US11727205B1/en",
+                "date_produced": "2021-01-05",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Solar Energy Systems",
+        "patents": [
+            {
+                "patent_name": "Systems for cost-effective concentration and utilization of solar energy",
+                "patent_number": "patent/US9995507B2/en",
+                "date_produced": "2009-04-15",
+                "rank": 0
+            },
+            {
+                "patent_name": "Integrated solar energy utilization apparatus and system",
+                "patent_number": "patent/JP6502580B2/en",
+                "date_produced": "2016-09-08",
+                "rank": 1
+            },
+            {
+                "patent_name": "Concentrating solar power with glasshouses",
+                "patent_number": "patent/US20190377157A1/en",
+                "date_produced": "2019-01-14",
+                "rank": 2
+            },
+            {
+                "patent_name": "Solar tracker for solar energy devices",
+                "patent_number": "patent/US8763601B2/en",
+                "date_produced": "2011-12-29",
+                "rank": 3
+            },
+            {
+                "patent_name": "System and method for generating steam using a solar power source in \u2026",
+                "patent_number": "patent/US9850878B2/en",
+                "date_produced": "2016-09-19",
+                "rank": 4
+            },
+            {
+                "patent_name": "Method of manufacturing large dish reflectors for a solar concentrator \u2026",
+                "patent_number": "patent/US8082755B2/en",
+                "date_produced": "2009-05-08",
+                "rank": 5
+            },
+            {
+                "patent_name": "\u2026 , liquid delivery systems and associated processes for solar energy systems",
+                "patent_number": "patent/US9200818B2/en",
+                "date_produced": "2010-08-12",
+                "rank": 6
+            },
+            {
+                "patent_name": "Solar energy systems",
+                "patent_number": "patent/US10533717B2/en",
+                "date_produced": "2016-10-16",
+                "rank": 7
+            },
+            {
+                "patent_name": "Solar energy conversion",
+                "patent_number": "patent/JP5829708B2/en",
+                "date_produced": "2014-03-05",
+                "rank": 8
+            },
+            {
+                "patent_name": "Concentrated photovoltaic and solar heating system",
+                "patent_number": "patent/US8952238B1/en",
+                "date_produced": "2013-03-15",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Autonomous Vehicles in Urban Environments",
+        "patents": [
+            {
+                "patent_name": "Estimating friction based on image data",
+                "patent_number": "patent/US10713504B2/en",
+                "date_produced": "2019-04-29",
+                "rank": 0
+            },
+            {
+                "patent_name": "Transport system, self-driving vehicle and control method of a transport system",
+                "patent_number": "patent/US11360489B2/en",
+                "date_produced": "2017-07-14",
+                "rank": 1
+            },
+            {
+                "patent_name": "INTEGRATED PROPULSION &amp; STEERING For Battery Electric Vehicles (BEV), Hybrid \u2026",
+                "patent_number": "patent/US20190351895A1/en",
+                "date_produced": "2019-04-30",
+                "rank": 2
+            },
+            {
+                "patent_name": "Modifying the behavior of an autonomous vehicle using context based parameter \u2026",
+                "patent_number": "patent/US10345810B1/en",
+                "date_produced": "2017-07-25",
+                "rank": 3
+            },
+            {
+                "patent_name": "Pipeline with point cloud filtering",
+                "patent_number": "patent/US10810445B1/en",
+                "date_produced": "2018-06-29",
+                "rank": 4
+            },
+            {
+                "patent_name": "Point cloud filtering with semantic segmentation",
+                "patent_number": "patent/US10921817B1/en",
+                "date_produced": "2018-06-29",
+                "rank": 5
+            },
+            {
+                "patent_name": "Electronic braking systems and methods",
+                "patent_number": "patent/US11654891B2/en",
+                "date_produced": "2020-02-19",
+                "rank": 6
+            },
+            {
+                "patent_name": "Interactions between vehicle and teleoperations system",
+                "patent_number": "patent/US10386836B2/en",
+                "date_produced": "2017-07-07",
+                "rank": 7
+            },
+            {
+                "patent_name": "Interactions between vehicle and teleoperations system",
+                "patent_number": "patent/US11307576B2/en",
+                "date_produced": "2020-03-30",
+                "rank": 8
+            },
+            {
+                "patent_name": "Charge coupler and method for autonomously charging vehicle batteries",
+                "patent_number": "patent/US11682915B2/en",
+                "date_produced": "2021-09-27",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "CRISPR Gene Editing Applications",
+        "patents": [
+            {
+                "patent_name": "Delivery, use and therapeutic application of CRISPR-Cas systems and \u2026",
+                "patent_number": "patent/JP7103750B2/en",
+                "date_produced": "2014-12-12",
+                "rank": 0
+            },
+            {
+                "patent_name": "Anti-crispr compounds and methods of use",
+                "patent_number": "patent/US20230167426A1/en",
+                "date_produced": "2022-10-03",
+                "rank": 1
+            },
+            {
+                "patent_name": "Targeted CRISPR delivery platforms",
+                "patent_number": "patent/AU2018364993B2/en",
+                "date_produced": "2018-11-09",
+                "rank": 2
+            },
+            {
+                "patent_name": "Methods and compositions for enhancing gene editing",
+                "patent_number": "patent/US20180245065A1/en",
+                "date_produced": "2017-11-01",
+                "rank": 3
+            },
+            {
+                "patent_name": "Anti-crispr-mediated control of genome editing and synthetic circuits in \u2026",
+                "patent_number": "patent/US20220098619A1/en",
+                "date_produced": "2019-12-10",
+                "rank": 4
+            },
+            {
+                "patent_name": "Enhancing endonuclease based gene editing in primary cells",
+                "patent_number": "patent/US20200377911A1/en",
+                "date_produced": "2020-01-13",
+                "rank": 5
+            },
+            {
+                "patent_name": "Double selection hdr crispr-based editing",
+                "patent_number": "patent/US20200255867A1/en",
+                "date_produced": "2018-08-30",
+                "rank": 6
+            },
+            {
+                "patent_name": "Immune effector cell therapies with enhanced efficacy",
+                "patent_number": "patent/EP3397756B1/en",
+                "date_produced": "2016-12-30",
+                "rank": 7
+            },
+            {
+                "patent_name": "Pooled crispr/cas9 screening in primary cells using guide swap technology",
+                "patent_number": "patent/WO2019106522A1/en",
+                "date_produced": "2018-11-26",
+                "rank": 8
+            },
+            {
+                "patent_name": "Methods and kits for cloning-free genome editing",
+                "patent_number": "patent/US20190002920A1/en",
+                "date_produced": "2016-04-28",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Machine Learning in Stock Market Prediction",
+        "patents": [
+            {
+                "patent_name": "Real-time event transcription system and method",
+                "patent_number": "patent/US11017057B1/en",
+                "date_produced": "2019-07-31",
+                "rank": 0
+            },
+            {
+                "patent_name": "Method and apparatus for generating time series data sets for predictive \u2026",
+                "patent_number": "patent/US10185893B2/en",
+                "date_produced": "2017-02-23",
+                "rank": 1
+            },
+            {
+                "patent_name": "Method and system for developing predictions from disparate data sources using \u2026",
+                "patent_number": "patent/US20180330281A1/en",
+                "date_produced": "2018-07-09",
+                "rank": 2
+            },
+            {
+                "patent_name": "Future trends forecasting system",
+                "patent_number": "patent/US11151588B2/en",
+                "date_produced": "2019-09-06",
+                "rank": 3
+            },
+            {
+                "patent_name": "Building and using predictive models of current and future surprises",
+                "patent_number": "patent/US7519564B2/en",
+                "date_produced": "2005-06-30",
+                "rank": 4
+            },
+            {
+                "patent_name": "Deep learning stock market prediction method combined with financial news",
+                "patent_number": "patent/CN106384166A/en",
+                "date_produced": "2016-09-12",
+                "rank": 5
+            },
+            {
+                "patent_name": "System and method for providing data science as a service",
+                "patent_number": "patent/US11562382B2/en",
+                "date_produced": "2018-10-26",
+                "rank": 6
+            },
+            {
+                "patent_name": "Sentiment and rules-based equity analysis using customized neural networks in \u2026",
+                "patent_number": "patent/US20220036461A1/en",
+                "date_produced": "2021-04-26",
+                "rank": 7
+            },
+            {
+                "patent_name": "A kind of Stock Market Forecasting method merged based on sentiment analysis \u2026",
+                "patent_number": "patent/CN103778215B/en",
+                "date_produced": "2014-01-17",
+                "rank": 8
+            },
+            {
+                "patent_name": "Systems and methods for detecting data drift for data used in machine learning \u2026",
+                "patent_number": "patent/US10599957B2/en",
+                "date_produced": "2018-10-26",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Blockchain for Voting Systems",
+        "patents": [
+            {
+                "patent_name": "Real-time computer system and method for controlling a system or a vehicle",
+                "patent_number": "patent/EP3902205B1/en",
+                "date_produced": "2020-04-21",
+                "rank": 0
+            },
+            {
+                "patent_name": "Simulation-based testing of blockchain and other distributed ledger systems",
+                "patent_number": "patent/US11301602B2/en",
+                "date_produced": "2019-11-13",
+                "rank": 1
+            },
+            {
+                "patent_name": "Systems and methods for communication, storage and processing of data provided \u2026",
+                "patent_number": "patent/EP3676988B1/en",
+                "date_produced": "2018-08-29",
+                "rank": 2
+            },
+            {
+                "patent_name": "System and method for securely receiving and counting votes in an election",
+                "patent_number": "patent/US20180102013A1/en",
+                "date_produced": "2017-12-04",
+                "rank": 3
+            },
+            {
+                "patent_name": "Secure voting system",
+                "patent_number": "patent/US20200258338A1/en",
+                "date_produced": "2020-02-07",
+                "rank": 4
+            },
+            {
+                "patent_name": "System and method for securely receiving and counting votes in an election",
+                "patent_number": "patent/US20170352219A1/en",
+                "date_produced": "2017-08-14",
+                "rank": 5
+            },
+            {
+                "patent_name": "System and method for securely receiving and counting votes in an election",
+                "patent_number": "patent/US9836908B2/en",
+                "date_produced": "2015-08-06",
+                "rank": 6
+            },
+            {
+                "patent_name": "Method and system for verifying a voter through the use of blockchain \u2026",
+                "patent_number": "patent/US11323262B2/en",
+                "date_produced": "2019-03-13",
+                "rank": 7
+            },
+            {
+                "patent_name": "Method and system for secure communication of tokens and aggregation thereof",
+                "patent_number": "patent/CN107835076B/en",
+                "date_produced": "2017-09-14",
+                "rank": 8
+            },
+            {
+                "patent_name": "Anonymous password voting method and system based on block chain",
+                "patent_number": "patent/CN111919239B/en",
+                "date_produced": "2019-01-25",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Nanotechnology in Cancer Treatment",
+        "patents": [
+            {
+                "patent_name": "Metal nanoparticles, their preparation and use",
+                "patent_number": "patent/JP5739883B2/en",
+                "date_produced": "2010-07-09",
+                "rank": 0
+            },
+            {
+                "patent_name": "Ion implantation of neutron capture elements into nanodiamond particles to form \u2026",
+                "patent_number": "patent/TW201739460A/en",
+                "date_produced": "2016-09-05",
+                "rank": 1
+            },
+            {
+                "patent_name": "Enhancement of radiation therapy by targeted high-z nanoparticles",
+                "patent_number": "patent/EP2555800B1/en",
+                "date_produced": "2011-04-05",
+                "rank": 2
+            },
+            {
+                "patent_name": "Target-directed amplification type anti-cancer nanoparticles and production \u2026",
+                "patent_number": "patent/JP6162326B2/en",
+                "date_produced": "2013-05-15",
+                "rank": 3
+            },
+            {
+                "patent_name": "Water-soluble fullerene nano material and preparation method and application \u2026",
+                "patent_number": "patent/CN108478598B/en",
+                "date_produced": "2017-09-29",
+                "rank": 4
+            },
+            {
+                "patent_name": "Thermal treatment of the skin surface with metal nanoparticles in surfactant \u2026",
+                "patent_number": "patent/US9439965B2/en",
+                "date_produced": "2014-08-28",
+                "rank": 5
+            },
+            {
+                "patent_name": "Compositions for selective activation of photoreactive responses",
+                "patent_number": "patent/EP3183037B1/en",
+                "date_produced": "2015-08-17",
+                "rank": 6
+            },
+            {
+                "patent_name": "Nanoparticles comprising metal materials and hafnium oxide materials, their \u2026",
+                "patent_number": "patent/JP6042450B2/en",
+                "date_produced": "2012-12-17",
+                "rank": 7
+            },
+            {
+                "patent_name": "Magnetic nanoparticle composition and use thereof",
+                "patent_number": "patent/JP5266548B2/en",
+                "date_produced": "2007-04-18",
+                "rank": 8
+            },
+            {
+                "patent_name": "Nanocarbon-iron composite system, composition, preparation method, and \u2026",
+                "patent_number": "patent/WO2018137708A1/en",
+                "date_produced": "2018-01-26",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Augmented Reality in Classroom Learning",
+        "patents": [
+            {
+                "patent_name": "Interactive literacy learning guide",
+                "patent_number": "patent/US20060188853A1/en",
+                "date_produced": "2005-02-18",
+                "rank": 0
+            },
+            {
+                "patent_name": "A kind of three-dimensional bookstore tutoring system and method based on \u2026",
+                "patent_number": "patent/CN106781786A/en",
+                "date_produced": "2017-01-10",
+                "rank": 1
+            },
+            {
+                "patent_name": "Foreign language instruction over the internet",
+                "patent_number": "patent/KR20070099040A/en",
+                "date_produced": "2006-02-15",
+                "rank": 2
+            },
+            {
+                "patent_name": "Vowel based method of teaching the reading of English",
+                "patent_number": "patent/US20080206724A1/en",
+                "date_produced": "2007-05-29",
+                "rank": 3
+            },
+            {
+                "patent_name": "Method and System for Automatic Generation of Adapted Content to Facilitate \u2026",
+                "patent_number": "patent/US20070238076A1/en",
+                "date_produced": "2007-03-20",
+                "rank": 4
+            },
+            {
+                "patent_name": "3-d image education system and method",
+                "patent_number": "patent/KR20120006154A/en",
+                "date_produced": "2010-07-12",
+                "rank": 5
+            },
+            {
+                "patent_name": "Calligraphy learning system",
+                "patent_number": "patent/JP2008107563A/en",
+                "date_produced": "2006-10-25",
+                "rank": 6
+            },
+            {
+                "patent_name": "Intelligent English teaching system for English teaching",
+                "patent_number": "patent/CN111564066A/en",
+                "date_produced": "2020-05-29",
+                "rank": 7
+            },
+            {
+                "patent_name": "After-school class contents provision system based on augmented reality",
+                "patent_number": "patent/KR102012316B1/en",
+                "date_produced": "2019-02-12",
+                "rank": 8
+            },
+            {
+                "patent_name": "Symbol manipulation educational system and method",
+                "patent_number": "patent/WO2019246174A1/en",
+                "date_produced": "2019-06-19",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "IoT Security Protocols in Manufacturing",
+        "patents": [
+            {
+                "patent_name": "Methods, systems, kits and apparatuses for providing end-to-end, secured and \u2026",
+                "patent_number": "patent/US20220247678A1/en",
+                "date_produced": "2022-02-17",
+                "rank": 0
+            },
+            {
+                "patent_name": "Analytics-based internet of things security platform",
+                "patent_number": "patent/US10057264B1/en",
+                "date_produced": "2016-05-26",
+                "rank": 1
+            },
+            {
+                "patent_name": "Management platform for additive manufacturing production line",
+                "patent_number": "patent/US11054808B2/en",
+                "date_produced": "2019-05-21",
+                "rank": 2
+            },
+            {
+                "patent_name": "Network security systems and methods",
+                "patent_number": "patent/US11683344B2/en",
+                "date_produced": "2020-12-14",
+                "rank": 3
+            },
+            {
+                "patent_name": "System, business and technical methods, and article of manufacture for \u2026",
+                "patent_number": "patent/US20200027096A1/en",
+                "date_produced": "2018-11-05",
+                "rank": 4
+            },
+            {
+                "patent_name": "Methods, system and point-to-point encryption device microchip for AES-sea 512- \u2026",
+                "patent_number": "patent/US10673617B1/en",
+                "date_produced": "2019-04-23",
+                "rank": 5
+            },
+            {
+                "patent_name": "Zero-touch provisioning of IoT devices with multi factor authentication",
+                "patent_number": "patent/US11128612B1/en",
+                "date_produced": "2019-09-25",
+                "rank": 6
+            },
+            {
+                "patent_name": "Trust and identity management systems and methods",
+                "patent_number": "patent/US11102008B2/en",
+                "date_produced": "2019-03-01",
+                "rank": 7
+            },
+            {
+                "patent_name": "Dynamic security mechanisms for mixed networks",
+                "patent_number": "patent/US10326796B1/en",
+                "date_produced": "2017-06-01",
+                "rank": 8
+            },
+            {
+                "patent_name": "Secure communication of IOT devices for vehicles",
+                "patent_number": "patent/US10153908B2/en",
+                "date_produced": "2017-08-24",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Deep Sea Exploration Technologies",
+        "patents": [
+            {
+                "patent_name": "Method and apparatus for gas hydrate position detection",
+                "patent_number": "patent/JP4949923B2/en",
+                "date_produced": "2007-05-10",
+                "rank": 0
+            },
+            {
+                "patent_name": "Seismic imaging and tomography using seabed energy sources",
+                "patent_number": "patent/WO2006120548A2/en",
+                "date_produced": "2006-04-28",
+                "rank": 1
+            },
+            {
+                "patent_name": "Method and apparatus for simultaneous sweeping and humming seismic acquisition",
+                "patent_number": "patent/EP3227724B1/en",
+                "date_produced": "2015-12-02",
+                "rank": 2
+            },
+            {
+                "patent_name": "Unmanned vehicle-based seismic surveying",
+                "patent_number": "patent/WO2014176239A1/en",
+                "date_produced": "2014-04-22",
+                "rank": 3
+            },
+            {
+                "patent_name": "Method for seismic monitoring of process of development of hydrocarbons in \u2026",
+                "patent_number": "patent/RU2602735C2/en",
+                "date_produced": "2014-09-11",
+                "rank": 4
+            },
+            {
+                "patent_name": "System for regulating variable buoyancy and lift to the surface to provide \u2026",
+                "patent_number": "patent/RU2744984C2/en",
+                "date_produced": "2017-02-27",
+                "rank": 5
+            },
+            {
+                "patent_name": "System and method for seismic imaging using fiber optic sensing systems",
+                "patent_number": "patent/AU2017101934A4/en",
+                "date_produced": "2017-10-05",
+                "rank": 6
+            },
+            {
+                "patent_name": "Apparatus for investigating the sea bottom comprising geomagnetic sensor",
+                "patent_number": "patent/KR101335513B1/en",
+                "date_produced": "2013-07-03",
+                "rank": 7
+            },
+            {
+                "patent_name": "For quantifying the method and system of inclusion compound deposition",
+                "patent_number": "patent/CN109791215A/en",
+                "date_produced": "2017-04-25",
+                "rank": 8
+            },
+            {
+                "patent_name": "The method and system of inclusion compound deposition for identification",
+                "patent_number": "patent/CN109716171A/en",
+                "date_produced": "2017-04-25",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Quantum Computing for Data Encryption",
+        "patents": [
+            {
+                "patent_name": "Electronic security keys for data security based on quantum particle states",
+                "patent_number": "patent/US10644882B2/en",
+                "date_produced": "2017-04-25",
+                "rank": 0
+            },
+            {
+                "patent_name": "Methods, systems, and devices for an encrypted and obfuscated algorithm in a \u2026",
+                "patent_number": "patent/US11301547B1/en",
+                "date_produced": "2019-05-01",
+                "rank": 1
+            },
+            {
+                "patent_name": "Quantum computing on encrypted data",
+                "patent_number": "patent/US8897449B1/en",
+                "date_produced": "2012-09-11",
+                "rank": 2
+            },
+            {
+                "patent_name": "Post-quantum cryptography side chain",
+                "patent_number": "patent/US11626973B1/en",
+                "date_produced": "2021-11-22",
+                "rank": 3
+            },
+            {
+                "patent_name": "The One-Qubit Pad (OQP) for entanglement encryption of quantum information",
+                "patent_number": "patent/US20210058244A1/en",
+                "date_produced": "2017-12-31",
+                "rank": 4
+            },
+            {
+                "patent_name": "Systems and methods for post-quantum cryptography optimization",
+                "patent_number": "patent/US11736281B1/en",
+                "date_produced": "2021-12-22",
+                "rank": 5
+            },
+            {
+                "patent_name": "Systems and methods for quantum algorithm based optimization",
+                "patent_number": "patent/US11544047B1/en",
+                "date_produced": "2021-12-22",
+                "rank": 6
+            },
+            {
+                "patent_name": "Systems and methods for post-quantum cryptography optimization",
+                "patent_number": "patent/US11727829B1/en",
+                "date_produced": "2022-03-29",
+                "rank": 7
+            },
+            {
+                "patent_name": "Systems and methods for post-quantum cryptography optimization",
+                "patent_number": "patent/US20230254132A1/en",
+                "date_produced": "2023-04-12",
+                "rank": 8
+            },
+            {
+                "patent_name": "Electronic security keys for data security based on quantum particle states \u2026",
+                "patent_number": "patent/US10432663B2/en",
+                "date_produced": "2017-04-25",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Sustainable Farming Practices",
+        "patents": [
+            {
+                "patent_name": "It is a kind of to improve female rabbit and practice midwifery the method for \u2026",
+                "patent_number": "patent/CN108077167A/en",
+                "date_produced": "2017-12-08",
+                "rank": 0
+            },
+            {
+                "patent_name": "Devices, systems, and methods for determining and displaying multiple calandar- \u2026",
+                "patent_number": "patent/US20210360866A1/en",
+                "date_produced": "2021-07-28",
+                "rank": 1
+            },
+            {
+                "patent_name": "Distributed ledger based identity and origins of supply chain application \u2026",
+                "patent_number": "patent/US10692086B2/en",
+                "date_produced": "2018-08-29",
+                "rank": 2
+            },
+            {
+                "patent_name": "System and method of providing agricultural pedigree for agricultural products \u2026",
+                "patent_number": "patent/US20180315056A1/en",
+                "date_produced": "2018-01-18",
+                "rank": 3
+            },
+            {
+                "patent_name": "Natural 1,2-alkanediols, compositions having natural 1,2-alkanediols and \u2026",
+                "patent_number": "patent/US11414365B2/en",
+                "date_produced": "2019-01-30",
+                "rank": 4
+            },
+            {
+                "patent_name": "Systems and methods for sustainable economic development through integrated \u2026",
+                "patent_number": "patent/US9231267B2/en",
+                "date_produced": "2010-08-16",
+                "rank": 5
+            },
+            {
+                "patent_name": "Systems and methods of blockchain transaction recordation in a food supply \u2026",
+                "patent_number": "patent/US20210209546A1/en",
+                "date_produced": "2020-12-07",
+                "rank": 6
+            },
+            {
+                "patent_name": "Methods and compositions for improving plant traits",
+                "patent_number": "patent/JP7244697B2/en",
+                "date_produced": "2022-04-18",
+                "rank": 7
+            },
+            {
+                "patent_name": "Polymicrobial formulations for enhancing plant productivity",
+                "patent_number": "patent/US9615584B2/en",
+                "date_produced": "2014-01-22",
+                "rank": 8
+            },
+            {
+                "patent_name": "Method and apparatus for controlling weeds with solar energy",
+                "patent_number": "patent/US11375707B1/en",
+                "date_produced": "2019-03-12",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "5G Network Implementation Challenges",
+        "patents": [
+            {
+                "patent_name": "Industrial automation with 5g and beyond",
+                "patent_number": "patent/TW202135580A/en",
+                "date_produced": "2020-02-12",
+                "rank": 0
+            },
+            {
+                "patent_name": "Private multefire network with SDR-based massive MIMO, multefire and network \u2026",
+                "patent_number": "patent/US10334446B2/en",
+                "date_produced": "2018-08-02",
+                "rank": 1
+            },
+            {
+                "patent_name": "5G network slicing with distributed ledger traceability and resource \u2026",
+                "patent_number": "patent/US11711267B2/en",
+                "date_produced": "2020-02-24",
+                "rank": 2
+            },
+            {
+                "patent_name": "System and method providing network optimization for broadband networks",
+                "patent_number": "patent/US10326532B2/en",
+                "date_produced": "2018-07-20",
+                "rank": 3
+            },
+            {
+                "patent_name": "Methods, systems, kits and apparatuses for providing end-to-end, secured and \u2026",
+                "patent_number": "patent/US20220247678A1/en",
+                "date_produced": "2022-02-17",
+                "rank": 4
+            },
+            {
+                "patent_name": "Method and apparatus for generating, transmitting and receiving signals based \u2026",
+                "patent_number": "patent/KR102569182B1/en",
+                "date_produced": "2016-01-25",
+                "rank": 5
+            },
+            {
+                "patent_name": "Sdr-based massive mimo with v-ran cloud architecture and sdn-based network \u2026",
+                "patent_number": "patent/US20230025395A1/en",
+                "date_produced": "2022-09-27",
+                "rank": 6
+            },
+            {
+                "patent_name": "Quadrature time frequency space modulation technique",
+                "patent_number": "patent/CN108781160B/en",
+                "date_produced": "2016-11-17",
+                "rank": 7
+            },
+            {
+                "patent_name": "Systems and methods for providing customized virtual wireless networks based on \u2026",
+                "patent_number": "patent/EP3215953B1/en",
+                "date_produced": "2015-11-26",
+                "rank": 8
+            },
+            {
+                "patent_name": "Ultra-broadband virtualized telecom and internet",
+                "patent_number": "patent/US9949133B2/en",
+                "date_produced": "2017-07-31",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Wearable Health Monitoring Devices",
+        "patents": [
+            {
+                "patent_name": "Wearable health monitoring device and methods for fall detection",
+                "patent_number": "patent/US9179864B2/en",
+                "date_produced": "2008-08-15",
+                "rank": 0
+            },
+            {
+                "patent_name": "Mobile wearable monitoring systems",
+                "patent_number": "patent/KR102400268B1/en",
+                "date_produced": "2016-01-06",
+                "rank": 1
+            },
+            {
+                "patent_name": "Wearable systems for radio wave based health monitoring that include attachment \u2026",
+                "patent_number": "patent/US11206994B2/en",
+                "date_produced": "2019-11-13",
+                "rank": 2
+            },
+            {
+                "patent_name": "Wearable health monitoring system",
+                "patent_number": "patent/US11191432B2/en",
+                "date_produced": "2019-04-29",
+                "rank": 3
+            },
+            {
+                "patent_name": "Smart wearable device for health watch",
+                "patent_number": "patent/US10194862B2/en",
+                "date_produced": "2016-09-29",
+                "rank": 4
+            },
+            {
+                "patent_name": "Human health monitoring systems and methods",
+                "patent_number": "patent/US8653965B1/en",
+                "date_produced": "2010-01-12",
+                "rank": 5
+            },
+            {
+                "patent_name": "System for monitoring health related information for individuals",
+                "patent_number": "patent/EP3148435B1/en",
+                "date_produced": "2015-09-04",
+                "rank": 6
+            },
+            {
+                "patent_name": "Mobile wearable monitoring systems",
+                "patent_number": "patent/US20210169417A1/en",
+                "date_produced": "2020-10-22",
+                "rank": 7
+            },
+            {
+                "patent_name": "Wearable monitoring devices",
+                "patent_number": "patent/US20180242860A1/en",
+                "date_produced": "2018-05-01",
+                "rank": 8
+            },
+            {
+                "patent_name": "Method and system for continuous monitoring of health parameters during \u2026",
+                "patent_number": "patent/US20180358119A1/en",
+                "date_produced": "2018-07-16",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Virtual Reality in Surgical Training",
+        "patents": [
+            {
+                "patent_name": "Surgical training simulator having multiple tracking systems",
+                "patent_number": "patent/US20100167250A1/en",
+                "date_produced": "2008-12-31",
+                "rank": 0
+            },
+            {
+                "patent_name": "Surgical training simulator having augmented reality",
+                "patent_number": "patent/US20100167249A1/en",
+                "date_produced": "2008-12-31",
+                "rank": 1
+            },
+            {
+                "patent_name": "Modular staged reality simulator",
+                "patent_number": "patent/US10013896B2/en",
+                "date_produced": "2017-07-07",
+                "rank": 2
+            },
+            {
+                "patent_name": "Augmented reality system for teaching patient care",
+                "patent_number": "patent/CN111465970B/en",
+                "date_produced": "2018-08-16",
+                "rank": 3
+            },
+            {
+                "patent_name": "Nose endoscopic surgery navigation emulation training system",
+                "patent_number": "patent/CN204971576U/en",
+                "date_produced": "2015-07-06",
+                "rank": 4
+            },
+            {
+                "patent_name": "Virtual reality-based educational cataract surgery simulation system",
+                "patent_number": "patent/WO2020091225A1/en",
+                "date_produced": "2019-09-18",
+                "rank": 5
+            },
+            {
+                "patent_name": "Virtual teaching training system for puncture",
+                "patent_number": "patent/CN104658394A/en",
+                "date_produced": "2015-02-13",
+                "rank": 6
+            },
+            {
+                "patent_name": "Support the lumbar puncture virtual emulation and training system of dynamic \u2026",
+                "patent_number": "patent/CN105069301B/en",
+                "date_produced": "2015-08-14",
+                "rank": 7
+            },
+            {
+                "patent_name": "Spine endoscope virtual training system",
+                "patent_number": "patent/CN105448155A/en",
+                "date_produced": "2015-12-22",
+                "rank": 8
+            },
+            {
+                "patent_name": "A kind of medical simulation training system and method",
+                "patent_number": "patent/CN107067856A/en",
+                "date_produced": "2016-12-31",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Biodegradable Packaging Materials",
+        "patents": [
+            {
+                "patent_name": "Biodegradable packaging for shipping",
+                "patent_number": "patent/US20210339927A1/en",
+                "date_produced": "2021-07-06",
+                "rank": 0
+            },
+            {
+                "patent_name": "Resilient biodegradable packaging materials",
+                "patent_number": "patent/US7981338B2/en",
+                "date_produced": "2006-08-22",
+                "rank": 1
+            },
+            {
+                "patent_name": "A method of manufacturing biodegradable packaging material, biodegradable \u2026",
+                "patent_number": "patent/ES2730685T3/en",
+                "date_produced": "2013-10-23",
+                "rank": 2
+            },
+            {
+                "patent_name": "Method for manufacturing biodegradable packaging material, biodegradable \u2026",
+                "patent_number": "patent/US11434605B2/en",
+                "date_produced": "2018-11-28",
+                "rank": 3
+            },
+            {
+                "patent_name": "Biodegradable packaging material",
+                "patent_number": "patent/US20050249899A1/en",
+                "date_produced": "2005-05-05",
+                "rank": 4
+            },
+            {
+                "patent_name": "Biodegradable packaging materials with enhanced oxygen barrier performance",
+                "patent_number": "patent/EP2263872A1/en",
+                "date_produced": "2010-06-15",
+                "rank": 5
+            },
+            {
+                "patent_name": "Heat-sealable biodegradable packaging material, a method for its manufacture, \u2026",
+                "patent_number": "patent/US9181010B2/en",
+                "date_produced": "2011-03-11",
+                "rank": 6
+            },
+            {
+                "patent_name": "Highly-filled fully-biodegradable packaging material",
+                "patent_number": "patent/CN102277005B/en",
+                "date_produced": "2011-07-07",
+                "rank": 7
+            },
+            {
+                "patent_name": "Biodegradable packaging laminate, a method of producing the packaging laminate, \u2026",
+                "patent_number": "patent/US20020127358A1/en",
+                "date_produced": "1997-09-01",
+                "rank": 8
+            },
+            {
+                "patent_name": "Biodegradable packaging material and the method of preparation thereof",
+                "patent_number": "patent/US4863655A/en",
+                "date_produced": "1988-12-30",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Air Quality Monitoring using Drones",
+        "patents": [
+            {
+                "patent_name": "System for monitoring air quality using public transportation",
+                "patent_number": "patent/WO2020020256A1/en",
+                "date_produced": "2019-07-25",
+                "rank": 0
+            },
+            {
+                "patent_name": "Method of determining false negative rate of mobile monitoring and requisite \u2026",
+                "patent_number": "patent/GB2580217A/en",
+                "date_produced": "2019-01-31",
+                "rank": 1
+            },
+            {
+                "patent_name": "Air quality monitoring system and method",
+                "patent_number": "patent/US11366057B2/en",
+                "date_produced": "2021-12-03",
+                "rank": 2
+            },
+            {
+                "patent_name": "Atmospheric pollutant monitoring device having self-cleaning function",
+                "patent_number": "patent/WO2019210719A1/en",
+                "date_produced": "2019-01-31",
+                "rank": 3
+            },
+            {
+                "patent_name": "Atmospheric sensor network and analytical information system related thereto",
+                "patent_number": "patent/EP3374805B1/en",
+                "date_produced": "2016-11-03",
+                "rank": 4
+            },
+            {
+                "patent_name": "Building network",
+                "patent_number": "patent/US11294254B2/en",
+                "date_produced": "2019-10-25",
+                "rank": 5
+            },
+            {
+                "patent_name": "Building network",
+                "patent_number": "patent/US20220179275A1/en",
+                "date_produced": "2022-02-23",
+                "rank": 6
+            },
+            {
+                "patent_name": "Cellular system",
+                "patent_number": "patent/US20210112425A1/en",
+                "date_produced": "2020-09-16",
+                "rank": 7
+            },
+            {
+                "patent_name": "Cellular system",
+                "patent_number": "patent/US11646490B2/en",
+                "date_produced": "2021-10-21",
+                "rank": 8
+            },
+            {
+                "patent_name": "Cellular system",
+                "patent_number": "patent/US11658407B2/en",
+                "date_produced": "2020-11-10",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Neural Networks for Language Translation",
+        "patents": [
+            {
+                "patent_name": "Automated gesture identification using neural networks",
+                "patent_number": "patent/US11087488B2/en",
+                "date_produced": "2019-05-23",
+                "rank": 0
+            },
+            {
+                "patent_name": "Visual sign language translation training device and method",
+                "patent_number": "patent/US10289903B1/en",
+                "date_produced": "2019-01-25",
+                "rank": 1
+            },
+            {
+                "patent_name": "Real-time gesture recognition method and apparatus",
+                "patent_number": "patent/US11055521B2/en",
+                "date_produced": "2019-12-30",
+                "rank": 2
+            },
+            {
+                "patent_name": "System and apparatus for non-intrusive word and sentence level sign language \u2026",
+                "patent_number": "patent/US11263409B2/en",
+                "date_produced": "2018-11-05",
+                "rank": 3
+            },
+            {
+                "patent_name": "The sign language video interpretation method merged based on convolution \u2026",
+                "patent_number": "patent/CN109190578B/en",
+                "date_produced": "2018-09-13",
+                "rank": 4
+            },
+            {
+                "patent_name": "Automatic interpretation method and apparatus",
+                "patent_number": "patent/US10867136B2/en",
+                "date_produced": "2017-01-12",
+                "rank": 5
+            },
+            {
+                "patent_name": "Method and apparatus for recognizing sign language or gesture using 3d edm",
+                "patent_number": "patent/US20210034846A1/en",
+                "date_produced": "2020-07-30",
+                "rank": 6
+            },
+            {
+                "patent_name": "Quasi-recurrent neural network based encoder-decoder model",
+                "patent_number": "patent/AU2017355537B2/en",
+                "date_produced": "2017-11-03",
+                "rank": 7
+            },
+            {
+                "patent_name": "Intelligent control with hierarchical stacked neural networks",
+                "patent_number": "patent/US11514305B1/en",
+                "date_produced": "2018-01-19",
+                "rank": 8
+            },
+            {
+                "patent_name": "Translation method, translation equipment and computer program",
+                "patent_number": "patent/JP7066349B2/en",
+                "date_produced": "2017-08-01",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Hydroponic Systems in Urban Farming",
+        "patents": [
+            {
+                "patent_name": "Method for cultivating plant on artificial culture soil comprising water- \u2026",
+                "patent_number": "patent/JP2003199425A/en",
+                "date_produced": "2002-02-21",
+                "rank": 0
+            },
+            {
+                "patent_name": "Central Processing Horticulture",
+                "patent_number": "patent/US20160192594A1/en",
+                "date_produced": "2015-01-01",
+                "rank": 1
+            },
+            {
+                "patent_name": "MODULAR ELEMENTS OF HYDROPONIC INSTALLATION OF MIXED TYPE FOR CREATION OF \u2026",
+                "patent_number": "patent/RU126892U1/en",
+                "date_produced": "2012-09-13",
+                "rank": 2
+            },
+            {
+                "patent_name": "System for infusing a gas or liquids into the roots of a plant",
+                "patent_number": "patent/US11622514B2/en",
+                "date_produced": "2021-03-10",
+                "rank": 3
+            },
+            {
+                "patent_name": "Hybrid Hydroponic Plant Growing Systems",
+                "patent_number": "patent/US20170105368A1/en",
+                "date_produced": "2016-10-14",
+                "rank": 4
+            },
+            {
+                "patent_name": "Manufacturing method of charcoal / pH buffer adjusting agent kneaded granular \u2026",
+                "patent_number": "patent/JP6037094B2/en",
+                "date_produced": "2011-08-09",
+                "rank": 5
+            },
+            {
+                "patent_name": "Automated Hydroponic Growing Appliance",
+                "patent_number": "patent/US20200396917A1/en",
+                "date_produced": "2020-07-13",
+                "rank": 6
+            },
+            {
+                "patent_name": "Central processing horticulture",
+                "patent_number": "patent/US11129344B2/en",
+                "date_produced": "2018-10-05",
+                "rank": 7
+            },
+            {
+                "patent_name": "Aquaponics system for farming aquarium fishes",
+                "patent_number": "patent/KR20180011533A/en",
+                "date_produced": "2016-07-25",
+                "rank": 8
+            },
+            {
+                "patent_name": "Automated modular system for managing vertical farms",
+                "patent_number": "patent/JP7249343B2/en",
+                "date_produced": "2018-07-30",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Graphene Batteries in Electric Vehicles",
+        "patents": [
+            {
+                "patent_name": "Power supply and vehicle",
+                "patent_number": "patent/WO2007132941A1/en",
+                "date_produced": "2007-05-15",
+                "rank": 0
+            },
+            {
+                "patent_name": "Plug-in hybrid conversion device for hybrid vehicles",
+                "patent_number": "patent/JP3162167U/en",
+                "date_produced": "2010-02-03",
+                "rank": 1
+            },
+            {
+                "patent_name": "Lithium super-battery with a functionalized nano graphene cathode",
+                "patent_number": "patent/US8795899B2/en",
+                "date_produced": "2010-08-19",
+                "rank": 2
+            },
+            {
+                "patent_name": "Battery pack",
+                "patent_number": "patent/KR20130040552A/en",
+                "date_produced": "2011-10-14",
+                "rank": 3
+            },
+            {
+                "patent_name": "System and method for battery cell thermal management using carbon-based \u2026",
+                "patent_number": "patent/US9780418B2/en",
+                "date_produced": "2014-10-27",
+                "rank": 4
+            },
+            {
+                "patent_name": "Graphene nanocomposites for electrochemical cell electrodes",
+                "patent_number": "patent/US9190667B2/en",
+                "date_produced": "2008-07-28",
+                "rank": 5
+            },
+            {
+                "patent_name": "Positive electrode active material and electricity storage device",
+                "patent_number": "patent/CN106711402B/en",
+                "date_produced": "2011-09-26",
+                "rank": 6
+            },
+            {
+                "patent_name": "Surface-mediated cell-powered vehicles and methods of operating same",
+                "patent_number": "patent/US8914176B2/en",
+                "date_produced": "2012-01-23",
+                "rank": 7
+            },
+            {
+                "patent_name": "Rechargeable lithium cell having a chemically bonded phthalocyanine compound \u2026",
+                "patent_number": "patent/US9362555B2/en",
+                "date_produced": "2012-09-07",
+                "rank": 8
+            },
+            {
+                "patent_name": "Electric bicycle capable of running for long distance",
+                "patent_number": "patent/CN211731694U/en",
+                "date_produced": "2020-01-15",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Machine Learning in Cybersecurity Threat Detection",
+        "patents": [
+            {
+                "patent_name": "Automatic recovery unit of paper file",
+                "patent_number": "patent/CN113443465A/en",
+                "date_produced": "2021-07-06",
+                "rank": 0
+            },
+            {
+                "patent_name": "System and method for heterogeneous transferred learning for enhanced \u2026",
+                "patent_number": "patent/US11475128B2/en",
+                "date_produced": "2019-08-16",
+                "rank": 1
+            },
+            {
+                "patent_name": "Method for sharing cybersecurity threat analysis and defensive measures amongst \u2026",
+                "patent_number": "patent/US11799898B2/en",
+                "date_produced": "2019-02-19",
+                "rank": 2
+            },
+            {
+                "patent_name": "Model workflow control in a distributed computation system",
+                "patent_number": "patent/US10581881B2/en",
+                "date_produced": "2017-10-31",
+                "rank": 3
+            },
+            {
+                "patent_name": "Method, apparatus, and system to map network reachability",
+                "patent_number": "patent/US20230111771A1/en",
+                "date_produced": "2022-08-12",
+                "rank": 4
+            },
+            {
+                "patent_name": "Cyber threat defense system and method",
+                "patent_number": "patent/US20210273960A1/en",
+                "date_produced": "2021-02-26",
+                "rank": 5
+            },
+            {
+                "patent_name": "System and method for improved end-to-end cybersecurity machine learning and \u2026",
+                "patent_number": "patent/US11227047B1/en",
+                "date_produced": "2018-07-30",
+                "rank": 6
+            },
+            {
+                "patent_name": "Cyber security for software-as-a-service factoring risk",
+                "patent_number": "patent/US20210273957A1/en",
+                "date_produced": "2021-02-26",
+                "rank": 7
+            },
+            {
+                "patent_name": "Cyber Security for Instant Messaging Across Platforms",
+                "patent_number": "patent/US20210360027A1/en",
+                "date_produced": "2021-05-18",
+                "rank": 8
+            },
+            {
+                "patent_name": "Artificial intelligence adversary red team",
+                "patent_number": "patent/US20210194924A1/en",
+                "date_produced": "2021-02-26",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Biomimicry in Architectural Design",
+        "patents": [
+            {
+                "patent_name": "Method of producing a 3D subject specific biomimetic nerve conduit",
+                "patent_number": "patent/US10405963B2/en",
+                "date_produced": "2015-11-16",
+                "rank": 0
+            },
+            {
+                "patent_name": "Drone with four wings maneuverable by flapping action",
+                "patent_number": "patent/US20200277052A1/en",
+                "date_produced": "2020-01-05",
+                "rank": 1
+            },
+            {
+                "patent_name": "Building system for cascading flows of matter and energy",
+                "patent_number": "patent/JP2023075078A/en",
+                "date_produced": "2023-02-03",
+                "rank": 2
+            },
+            {
+                "patent_name": "Methods and apparatus for computer-aided tissue engineering for modeling, \u2026",
+                "patent_number": "patent/US9965656B2/en",
+                "date_produced": "2015-10-28",
+                "rank": 3
+            },
+            {
+                "patent_name": "Neuromuscular model-based sensing and control paradigm for a robotic leg",
+                "patent_number": "patent/US9975249B2/en",
+                "date_produced": "2015-12-22",
+                "rank": 4
+            },
+            {
+                "patent_name": "Artificial joints using agonist-antagonist actuators",
+                "patent_number": "patent/US11491032B2/en",
+                "date_produced": "2019-05-31",
+                "rank": 5
+            },
+            {
+                "patent_name": "Self-healing composite of thermoset polymer and programmed super contraction \u2026",
+                "patent_number": "patent/US10239788B2/en",
+                "date_produced": "2016-07-19",
+                "rank": 6
+            },
+            {
+                "patent_name": "Biomimetically designed modular microfluidic-based capillaries and lymphatic \u2026",
+                "patent_number": "patent/US11596901B2/en",
+                "date_produced": "2020-05-29",
+                "rank": 7
+            },
+            {
+                "patent_name": "Method for controlling a robotic limb joint",
+                "patent_number": "patent/US9539117B2/en",
+                "date_produced": "2014-10-21",
+                "rank": 8
+            },
+            {
+                "patent_name": "Artificial human limbs and joints employing actuators, springs and variable- \u2026",
+                "patent_number": "patent/US10588759B2/en",
+                "date_produced": "2016-04-14",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Robotics in Precision Agriculture",
+        "patents": [
+            {
+                "patent_name": "A kind of polyhouse-based agriculture robot based on machine vision",
+                "patent_number": "patent/CN207322127U/en",
+                "date_produced": "2017-10-30",
+                "rank": 0
+            },
+            {
+                "patent_name": "Automatic system for navigation of an agricultural robot using pixhawk",
+                "patent_number": "patent/AU2021100165A4/en",
+                "date_produced": "2021-01-12",
+                "rank": 1
+            },
+            {
+                "patent_name": "Backscatter imaging for precision agriculture",
+                "patent_number": "patent/US10955367B2/en",
+                "date_produced": "2016-09-07",
+                "rank": 2
+            },
+            {
+                "patent_name": "Systems, devices, and methods for agricultural sample collection",
+                "patent_number": "patent/US11609159B2/en",
+                "date_produced": "2018-05-08",
+                "rank": 3
+            },
+            {
+                "patent_name": "Long-duration, fully autonomous operation of rotorcraft unmanned aerial systems \u2026",
+                "patent_number": "patent/US20200130864A1/en",
+                "date_produced": "2019-10-29",
+                "rank": 4
+            },
+            {
+                "patent_name": "Robot positioning with station-keeping",
+                "patent_number": "patent/US10721868B2/en",
+                "date_produced": "2019-09-23",
+                "rank": 5
+            },
+            {
+                "patent_name": "Aerial farm robot system for crop dusting, planting, fertilizing and other \u2026",
+                "patent_number": "patent/US9382003B2/en",
+                "date_produced": "2014-03-20",
+                "rank": 6
+            },
+            {
+                "patent_name": "Hybrid airship-drone farm robot system for crop dusting, planting, fertilizing \u2026",
+                "patent_number": "patent/US9852644B2/en",
+                "date_produced": "2016-06-25",
+                "rank": 7
+            },
+            {
+                "patent_name": "Automatic target recognition and dispensing system",
+                "patent_number": "patent/ES2886865T3/en",
+                "date_produced": "2015-12-10",
+                "rank": 8
+            },
+            {
+                "patent_name": "Method for predicting soil and/or plant condition",
+                "patent_number": "patent/CN108241905B/en",
+                "date_produced": "2017-12-15",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "3D Bioprinting of Human Organs",
+        "patents": [
+            {
+                "patent_name": "Method for modifying surface of hydroxyapatite by 3D (three-dimensional) \u2026",
+                "patent_number": "patent/CN112842623A/en",
+                "date_produced": "2020-12-31",
+                "rank": 0
+            },
+            {
+                "patent_name": "Simulator for developing skills of performing kidney surgeries",
+                "patent_number": "patent/RU2691524C1/en",
+                "date_produced": "2018-07-30",
+                "rank": 1
+            },
+            {
+                "patent_name": "High definition, color images, animations, and videos for diagnostic and \u2026",
+                "patent_number": "patent/US11051769B2/en",
+                "date_produced": "2018-09-24",
+                "rank": 2
+            },
+            {
+                "patent_name": "A kind of extraction method of human chest organ-tissue",
+                "patent_number": "patent/CN106355586B/en",
+                "date_produced": "2016-08-31",
+                "rank": 3
+            },
+            {
+                "patent_name": "training equipment",
+                "patent_number": "patent/JP2023512458A/en",
+                "date_produced": "2021-01-13",
+                "rank": 4
+            },
+            {
+                "patent_name": "Spontaneously beating cardiac organoid constructs and integrated body-on-chip \u2026",
+                "patent_number": "patent/AU2016331079B2/en",
+                "date_produced": "2016-09-30",
+                "rank": 5
+            },
+            {
+                "patent_name": "Preparation and application of fibrin-containing or non-containing RGD- \u2026",
+                "patent_number": "patent/JP7177045B2/en",
+                "date_produced": "2017-06-03",
+                "rank": 6
+            },
+            {
+                "patent_name": "Tubular tissue structure and printing method",
+                "patent_number": "patent/JP6945453B2/en",
+                "date_produced": "2016-05-04",
+                "rank": 7
+            },
+            {
+                "patent_name": "Cleanroom technology for bioprinters and 3D printers",
+                "patent_number": "patent/ES2878120T3/en",
+                "date_produced": "2016-08-31",
+                "rank": 8
+            },
+            {
+                "patent_name": "Composition for cell-based 3D printing",
+                "patent_number": "patent/JP7019555B2/en",
+                "date_produced": "2018-12-27",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Microplastic Removal Techniques in Oceans",
+        "patents": [
+            {
+                "patent_name": "Integrated separation unit for microplastics in the coastal sediments and \u2026",
+                "patent_number": "patent/US11420140B2/en",
+                "date_produced": "2020-09-23",
+                "rank": 0
+            },
+            {
+                "patent_name": "Enrichment device for rapidly and continuously separating microplastic and \u2026",
+                "patent_number": "patent/CN109228022B/en",
+                "date_produced": "2018-10-11",
+                "rank": 1
+            },
+            {
+                "patent_name": "Waste water quality monitoring system including water treatment rtu with fine \u2026",
+                "patent_number": "patent/KR102135690B1/en",
+                "date_produced": "2020-02-20",
+                "rank": 2
+            },
+            {
+                "patent_name": "System for rapid assessment of water quality and harmful algal bloom toxins",
+                "patent_number": "patent/US20190293565A1/en",
+                "date_produced": "2019-06-14",
+                "rank": 3
+            },
+            {
+                "patent_name": "The separating flotation device of micro- plastics in ambient soil and sediment \u2026",
+                "patent_number": "patent/CN208526984U/en",
+                "date_produced": "2018-06-13",
+                "rank": 4
+            },
+            {
+                "patent_name": "minute plastic detection apparatus",
+                "patent_number": "patent/KR102094373B1/en",
+                "date_produced": "2018-09-05",
+                "rank": 5
+            },
+            {
+                "patent_name": "Addition of biodegradability lending additives to plastic materials",
+                "patent_number": "patent/US11111355B2/en",
+                "date_produced": "2019-04-23",
+                "rank": 6
+            },
+            {
+                "patent_name": "Barrier material",
+                "patent_number": "patent/TWI765101B/en",
+                "date_produced": "2018-10-04",
+                "rank": 7
+            },
+            {
+                "patent_name": "Ocean cleanup autonomous system (ocas)",
+                "patent_number": "patent/US20210214055A1/en",
+                "date_produced": "2020-11-27",
+                "rank": 8
+            },
+            {
+                "patent_name": "Systems and techniques for removing waste from liquids",
+                "patent_number": "patent/JP2022539053A/en",
+                "date_produced": "2020-07-03",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Smart Cities and Traffic Management Systems",
+        "patents": [
+            {
+                "patent_name": "Method and system for publishing in-road parking service index in real time",
+                "patent_number": "patent/CN108133613B/en",
+                "date_produced": "2017-12-19",
+                "rank": 0
+            },
+            {
+                "patent_name": "A kind of intelligent traffic service system",
+                "patent_number": "patent/CN102768768B/en",
+                "date_produced": "2011-05-06",
+                "rank": 1
+            },
+            {
+                "patent_name": "Intelligent parking central charging management system",
+                "patent_number": "patent/CN201489582U/en",
+                "date_produced": "2009-05-31",
+                "rank": 2
+            },
+            {
+                "patent_name": "Operating method of intelligent parking-place public service system",
+                "patent_number": "patent/CN102622871B/en",
+                "date_produced": "2012-03-22",
+                "rank": 3
+            },
+            {
+                "patent_name": "Information providing system of the traffic and convenient facilities using \u2026",
+                "patent_number": "patent/KR100948722B1/en",
+                "date_produced": "2008-03-12",
+                "rank": 4
+            },
+            {
+                "patent_name": "Smart city management method and system based on regional traffic synchronism",
+                "patent_number": "patent/CN110033613B/en",
+                "date_produced": "2019-03-07",
+                "rank": 5
+            },
+            {
+                "patent_name": "City control management system based on wisdom street lamp",
+                "patent_number": "patent/CN110876126B/en",
+                "date_produced": "2020-01-17",
+                "rank": 6
+            },
+            {
+                "patent_name": "GPS (Global Position System)/GPRS (General Packet Radio Service) based method \u2026",
+                "patent_number": "patent/CN102054356A/en",
+                "date_produced": "2011-01-25",
+                "rank": 7
+            },
+            {
+                "patent_name": "Bus stop alarm system",
+                "patent_number": "patent/CN211237117U/en",
+                "date_produced": "2020-03-29",
+                "rank": 8
+            },
+            {
+                "patent_name": "Advanced parking management system",
+                "patent_number": "patent/US11004337B2/en",
+                "date_produced": "2013-12-30",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Personalized Learning Algorithms in Online Education",
+        "patents": [
+            {
+                "patent_name": "Development of virtual character in a learning game",
+                "patent_number": "patent/US20200197818A1/en",
+                "date_produced": "2020-03-02",
+                "rank": 0
+            },
+            {
+                "patent_name": "Learning behavior dynamic prediction method, device, equipment and storage \u2026",
+                "patent_number": "patent/CN109272164B/en",
+                "date_produced": "2018-09-29",
+                "rank": 1
+            },
+            {
+                "patent_name": "Online learning simulator using machine learning",
+                "patent_number": "patent/US10617961B2/en",
+                "date_produced": "2018-05-02",
+                "rank": 2
+            },
+            {
+                "patent_name": "Online learning system based on emotional state",
+                "patent_number": "patent/CN110334626B/en",
+                "date_produced": "2019-06-26",
+                "rank": 3
+            },
+            {
+                "patent_name": "System and method for adapting lessons to student needs",
+                "patent_number": "patent/US10347148B2/en",
+                "date_produced": "2007-07-13",
+                "rank": 4
+            },
+            {
+                "patent_name": "Real time learning and self improvement educational system and method",
+                "patent_number": "patent/US8602793B1/en",
+                "date_produced": "2011-07-15",
+                "rank": 5
+            },
+            {
+                "patent_name": "Deep academic learning intelligence and deep neural language network system and \u2026",
+                "patent_number": "patent/US20180247549A1/en",
+                "date_produced": "2018-02-21",
+                "rank": 6
+            },
+            {
+                "patent_name": "Systems and methods for autonomous creation of personalized job or career \u2026",
+                "patent_number": "patent/US11715385B2/en",
+                "date_produced": "2021-08-30",
+                "rank": 7
+            },
+            {
+                "patent_name": "Intelligent course selection recommendation method based on collaborative \u2026",
+                "patent_number": "patent/CN109299372B/en",
+                "date_produced": "2018-10-18",
+                "rank": 8
+            },
+            {
+                "patent_name": "Student profile grading system",
+                "patent_number": "patent/US8864499B2/en",
+                "date_produced": "2013-05-09",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Space Tourism and Commercial Spaceflight",
+        "patents": [
+            {
+                "patent_name": "Mechanical and fluid system and method for the prevention and control of motion \u2026",
+                "patent_number": "patent/US10099030B2/en",
+                "date_produced": "2015-06-10",
+                "rank": 0
+            },
+            {
+                "patent_name": "System and method for providing educational related social/geo/promo link \u2026",
+                "patent_number": "patent/US10096033B2/en",
+                "date_produced": "2012-04-04",
+                "rank": 1
+            },
+            {
+                "patent_name": "Rocket launch system and supporting apparatus",
+                "patent_number": "patent/CA2789506C/en",
+                "date_produced": "2011-02-10",
+                "rank": 2
+            },
+            {
+                "patent_name": "Physiological biosensor system and method for controlling a vehicle or powered \u2026",
+                "patent_number": "patent/US9298985B2/en",
+                "date_produced": "2014-02-04",
+                "rank": 3
+            },
+            {
+                "patent_name": "System and method for measuring and minimizing the effects of vertigo, motion \u2026",
+                "patent_number": "patent/US8690750B2/en",
+                "date_produced": "2011-05-16",
+                "rank": 4
+            },
+            {
+                "patent_name": "Methods and compositions of consumables",
+                "patent_number": "patent/RU2660933C2/en",
+                "date_produced": "2014-01-13",
+                "rank": 5
+            },
+            {
+                "patent_name": "Construction system for cascade flow of matter and energy",
+                "patent_number": "patent/JP2021050904A/en",
+                "date_produced": "2020-11-05",
+                "rank": 6
+            },
+            {
+                "patent_name": "Intelligent machine attitude determination, full-view image generation and \u2026",
+                "patent_number": "patent/CN105474033B/en",
+                "date_produced": "2014-12-26",
+                "rank": 7
+            },
+            {
+                "patent_name": "3-D Immersion Technology in a Virtual Store",
+                "patent_number": "patent/US20180047094A1/en",
+                "date_produced": "2017-10-25",
+                "rank": 8
+            },
+            {
+                "patent_name": "A kind of digital globe antetype system",
+                "patent_number": "patent/CN100547594C/en",
+                "date_produced": "2007-06-27",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Virtual Assistants in Customer Service",
+        "patents": [
+            {
+                "patent_name": "System and method for integrated virtual assistant-enhanced customer service",
+                "patent_number": "patent/US10931724B2/en",
+                "date_produced": "2018-01-22",
+                "rank": 0
+            },
+            {
+                "patent_name": "Interacting with a user device to provide automated testing of a customer \u2026",
+                "patent_number": "patent/US11790910B2/en",
+                "date_produced": "2021-05-10",
+                "rank": 1
+            },
+            {
+                "patent_name": "System and methods for virtual assistant networks",
+                "patent_number": "patent/US9172747B2/en",
+                "date_produced": "2014-04-02",
+                "rank": 2
+            },
+            {
+                "patent_name": "Virtual assistants using state-based artificial intelligence",
+                "patent_number": "patent/US11061700B2/en",
+                "date_produced": "2017-06-20",
+                "rank": 3
+            },
+            {
+                "patent_name": "System and method for distributed virtual assistant platforms",
+                "patent_number": "patent/US9729592B2/en",
+                "date_produced": "2014-09-16",
+                "rank": 4
+            },
+            {
+                "patent_name": "Masterbot architecture in a scalable multi-service virtual assistant platform",
+                "patent_number": "patent/US11222629B2/en",
+                "date_produced": "2021-06-07",
+                "rank": 5
+            },
+            {
+                "patent_name": "System for minimizing repetition in intelligent virtual assistant conversations",
+                "patent_number": "patent/US11409961B2/en",
+                "date_produced": "2019-10-10",
+                "rank": 6
+            },
+            {
+                "patent_name": "Evaluating conversation data based on risk factors",
+                "patent_number": "patent/US10175865B2/en",
+                "date_produced": "2017-12-28",
+                "rank": 7
+            },
+            {
+                "patent_name": "System and methods for semiautomatic generation and tuning of natural language \u2026",
+                "patent_number": "patent/US8903711B2/en",
+                "date_produced": "2013-10-08",
+                "rank": 8
+            },
+            {
+                "patent_name": "System and method for assisting customers in accessing appropriate customer \u2026",
+                "patent_number": "patent/US20190028588A1/en",
+                "date_produced": "2018-10-04",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Renewable Energy Integration in Grid Systems",
+        "patents": [
+            {
+                "patent_name": "Surface solar energy and hydropower combined power generation method",
+                "patent_number": "patent/CN102655331A/en",
+                "date_produced": "2012-04-19",
+                "rank": 0
+            },
+            {
+                "patent_name": "Distributed combined cooling heating and power system",
+                "patent_number": "patent/CN109687002B/en",
+                "date_produced": "2018-11-13",
+                "rank": 1
+            },
+            {
+                "patent_name": "Hydraulic photovoltaic cogeneration method",
+                "patent_number": "patent/CN106300437A/en",
+                "date_produced": "2015-05-13",
+                "rank": 2
+            },
+            {
+                "patent_name": "Novel wind-light storage intelligence combined generating system and control \u2026",
+                "patent_number": "patent/CN103390903B/en",
+                "date_produced": "2013-06-29",
+                "rank": 3
+            },
+            {
+                "patent_name": "PVT heat pump system capable of realizing divided daytime and night-time heat, \u2026",
+                "patent_number": "patent/AU2017426195B2/en",
+                "date_produced": "2017-08-03",
+                "rank": 4
+            },
+            {
+                "patent_name": "Wind, solar and electricity heat storage system and heat storage method",
+                "patent_number": "patent/CN112113357A/en",
+                "date_produced": "2020-10-10",
+                "rank": 5
+            },
+            {
+                "patent_name": "SC-MH (The solar cube for micro-grid hub)",
+                "patent_number": "patent/AU2014101380A4/en",
+                "date_produced": "2014-11-14",
+                "rank": 6
+            },
+            {
+                "patent_name": "Solar photovoltaic parallel-in system",
+                "patent_number": "patent/CN201194333Y/en",
+                "date_produced": "2008-03-17",
+                "rank": 7
+            },
+            {
+                "patent_name": "Solar energy photovoltaic multiplication power generation system",
+                "patent_number": "patent/CN201414089Y/en",
+                "date_produced": "2009-06-05",
+                "rank": 8
+            },
+            {
+                "patent_name": "A kind of complementary type green energy supply system",
+                "patent_number": "patent/CN103061885B/en",
+                "date_produced": "2012-12-25",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "AI-Powered Personal Finance Management",
+        "patents": [
+            {
+                "patent_name": "Method and system for requesting social services from group of users",
+                "patent_number": "patent/US8676833B2/en",
+                "date_produced": "2010-12-21",
+                "rank": 0
+            },
+            {
+                "patent_name": "Methods and device for self-organization of data collection",
+                "patent_number": "patent/US20190155272A1/en",
+                "date_produced": "2018-12-31",
+                "rank": 1
+            },
+            {
+                "patent_name": "System and method of providing and recording personalized context-specific \u2026",
+                "patent_number": "patent/US20220383417A1/en",
+                "date_produced": "2022-08-05",
+                "rank": 2
+            },
+            {
+                "patent_name": "Intelligent personal information management system",
+                "patent_number": "patent/US10904261B2/en",
+                "date_produced": "2015-11-05",
+                "rank": 3
+            },
+            {
+                "patent_name": "System and method for effectuating user access control",
+                "patent_number": "patent/US11640449B2/en",
+                "date_produced": "2020-12-19",
+                "rank": 4
+            },
+            {
+                "patent_name": "Systems, methods, and devices for an enterprise AI and internet-of-things \u2026",
+                "patent_number": "patent/US10824634B2/en",
+                "date_produced": "2018-02-07",
+                "rank": 5
+            },
+            {
+                "patent_name": "Autonomous exchange via entrusted ledger application specific wallet",
+                "patent_number": "patent/US11599875B2/en",
+                "date_produced": "2020-06-12",
+                "rank": 6
+            },
+            {
+                "patent_name": "Autonomous exchange via entrusted ledger wallet administration tool",
+                "patent_number": "patent/US20210319436A1/en",
+                "date_produced": "2021-05-05",
+                "rank": 7
+            },
+            {
+                "patent_name": "Internet appliance system and method",
+                "patent_number": "patent/US8583263B2/en",
+                "date_produced": "2011-03-08",
+                "rank": 8
+            },
+            {
+                "patent_name": "Artificial intelligence assisted service provisioning and modification for \u2026",
+                "patent_number": "patent/US11240181B1/en",
+                "date_produced": "2020-11-09",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Waste-to-Energy Conversion Technologies",
+        "patents": [
+            {
+                "patent_name": "Low temperature gasification facility with a horizontally oriented gasifier",
+                "patent_number": "patent/US9109172B2/en",
+                "date_produced": "2012-12-19",
+                "rank": 0
+            },
+            {
+                "patent_name": "Systems and methods for processing mixed solid waste",
+                "patent_number": "patent/US9650650B2/en",
+                "date_produced": "2014-01-21",
+                "rank": 1
+            },
+            {
+                "patent_name": "Systems and methods for processing mixed solid waste",
+                "patent_number": "patent/US10688544B2/en",
+                "date_produced": "2017-05-16",
+                "rank": 2
+            },
+            {
+                "patent_name": "Increasing the efficiency of supplemented ocean thermal energy conversion ( \u2026",
+                "patent_number": "patent/US8991182B2/en",
+                "date_produced": "2010-08-16",
+                "rank": 3
+            },
+            {
+                "patent_name": "Systems and methods for processing mixed solid waste",
+                "patent_number": "patent/CA2847289C/en",
+                "date_produced": "2011-12-30",
+                "rank": 4
+            },
+            {
+                "patent_name": "Control system for the conversion of carbonaceous feedstock into gas",
+                "patent_number": "patent/US8306665B2/en",
+                "date_produced": "2007-05-07",
+                "rank": 5
+            },
+            {
+                "patent_name": "Hydrothermal technology for decontamination and mineralization of perfluoro- \u2026",
+                "patent_number": "patent/US11577111B2/en",
+                "date_produced": "2019-11-20",
+                "rank": 6
+            },
+            {
+                "patent_name": "Systems and methods for sustainable economic development through integrated \u2026",
+                "patent_number": "patent/US9231267B2/en",
+                "date_produced": "2010-08-16",
+                "rank": 7
+            },
+            {
+                "patent_name": "Building system for cascading flows of matter and energy",
+                "patent_number": "patent/US10197338B2/en",
+                "date_produced": "2013-08-22",
+                "rank": 8
+            },
+            {
+                "patent_name": "Sorbent containing engineered fuel feed stock",
+                "patent_number": "patent/US10563144B2/en",
+                "date_produced": "2017-08-04",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "DNA Data Storage Technologies",
+        "patents": [
+            {
+                "patent_name": "Automated data storage library with multi-cartridge deep slot cells",
+                "patent_number": "patent/CN102132344B/en",
+                "date_produced": "2009-08-28",
+                "rank": 0
+            },
+            {
+                "patent_name": "Data storage cartridge with multiple cartridge memories",
+                "patent_number": "patent/JP4949079B2/en",
+                "date_produced": "2007-03-01",
+                "rank": 1
+            },
+            {
+                "patent_name": "Information recording device and information recording method",
+                "patent_number": "patent/CN101464837A/en",
+                "date_produced": "2008-08-20",
+                "rank": 2
+            },
+            {
+                "patent_name": "High-Capacity Storage of Digital Information in DNA",
+                "patent_number": "patent/US20230214319A9/en",
+                "date_produced": "2019-07-02",
+                "rank": 3
+            },
+            {
+                "patent_name": "Storage medium library array device",
+                "patent_number": "patent/JP2001325075A/en",
+                "date_produced": "2000-05-17",
+                "rank": 4
+            },
+            {
+                "patent_name": "Three-dimensional spatial molecular indexing",
+                "patent_number": "patent/US20210292834A1/en",
+                "date_produced": "2021-04-08",
+                "rank": 5
+            },
+            {
+                "patent_name": "Systems and methods for storing and reading nucleic acid-based data with error \u2026",
+                "patent_number": "patent/US20210210165A1/en",
+                "date_produced": "2021-03-19",
+                "rank": 6
+            },
+            {
+                "patent_name": "Methods of Storing Information Using Nucleic Acids",
+                "patent_number": "patent/US20210241059A1/en",
+                "date_produced": "2021-04-20",
+                "rank": 7
+            },
+            {
+                "patent_name": "Random access of data encoded by polynucleotides",
+                "patent_number": "patent/US10774379B2/en",
+                "date_produced": "2017-03-15",
+                "rank": 8
+            },
+            {
+                "patent_name": "Methods for RNA quantification",
+                "patent_number": "patent/US11124823B2/en",
+                "date_produced": "2016-05-26",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Wearable Exoskeletons in Rehabilitation",
+        "patents": [
+            {
+                "patent_name": "Wearable exoskeleton hip joint rehabilitation robot",
+                "patent_number": "patent/CN215021755U/en",
+                "date_produced": "2021-01-07",
+                "rank": 0
+            },
+            {
+                "patent_name": "Exoskeleton wearable lower limb rehabilitation training robot device",
+                "patent_number": "patent/CN102670377A/en",
+                "date_produced": "2012-05-28",
+                "rank": 1
+            },
+            {
+                "patent_name": "Wearable Multifunctional Powered Exoskeleton for Cervical Vertebra \u2026",
+                "patent_number": "patent/US20220354728A1/en",
+                "date_produced": "2020-12-11",
+                "rank": 2
+            },
+            {
+                "patent_name": "Wearable and portable hand rehabilitation training device",
+                "patent_number": "patent/CN105662784A/en",
+                "date_produced": "2016-03-24",
+                "rank": 3
+            },
+            {
+                "patent_name": "Mechanical structure of lower limb walking trainer capable of being spliced and \u2026",
+                "patent_number": "patent/CN109846675B/en",
+                "date_produced": "2019-04-02",
+                "rank": 4
+            },
+            {
+                "patent_name": "Wearable exoskeleton lower limb rehabilitation robot",
+                "patent_number": "patent/CN102327173B/en",
+                "date_produced": "2011-09-29",
+                "rank": 5
+            },
+            {
+                "patent_name": "Lower limb exoskeleton walking rehabilitation robot",
+                "patent_number": "patent/CN102499859B/en",
+                "date_produced": "2011-11-08",
+                "rank": 6
+            },
+            {
+                "patent_name": "Wearable bionic hydraulic lower limb rehabilitation walking-assisting \u2026",
+                "patent_number": "patent/CN106726363B/en",
+                "date_produced": "2017-03-13",
+                "rank": 7
+            },
+            {
+                "patent_name": "A kind of flexible wearable ectoskeleton drive lacking is all referring to \u2026",
+                "patent_number": "patent/CN106214418A/en",
+                "date_produced": "2016-07-01",
+                "rank": 8
+            },
+            {
+                "patent_name": "Wearable hand mechanical exoskeleton with auxiliary grasping and rehabilitation \u2026",
+                "patent_number": "patent/CN210145017U/en",
+                "date_produced": "2019-03-15",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Underwater Robotics for Marine Research",
+        "patents": [
+            {
+                "patent_name": "Unmanned autonomous submarine",
+                "patent_number": "patent/US7290496B2/en",
+                "date_produced": "2006-10-12",
+                "rank": 0
+            },
+            {
+                "patent_name": "Seabed survey system using multi-legged underwater robot with hybrid moving \u2026",
+                "patent_number": "patent/KR101283415B1/en",
+                "date_produced": "2011-12-15",
+                "rank": 1
+            },
+            {
+                "patent_name": "An articulated submarine robot having a combined movement function of walking \u2026",
+                "patent_number": "patent/JP6001085B2/en",
+                "date_produced": "2012-12-13",
+                "rank": 2
+            },
+            {
+                "patent_name": "Recovery apparatus and allocated method",
+                "patent_number": "patent/US11447209B2/en",
+                "date_produced": "2019-05-10",
+                "rank": 3
+            },
+            {
+                "patent_name": "Underwater manipulator arm robot",
+                "patent_number": "patent/AU2016212374B2/en",
+                "date_produced": "2016-01-13",
+                "rank": 4
+            },
+            {
+                "patent_name": "Three-dimensional space maneuvering bionic robot fish and buoyancy adjusting \u2026",
+                "patent_number": "patent/CN111086615A/en",
+                "date_produced": "2019-12-16",
+                "rank": 5
+            },
+            {
+                "patent_name": "Underwater robot-underwater mechanical arm system",
+                "patent_number": "patent/CN108860527B/en",
+                "date_produced": "2018-07-09",
+                "rank": 6
+            },
+            {
+                "patent_name": "A kind of unmanned operation ship",
+                "patent_number": "patent/CN209192167U/en",
+                "date_produced": "2018-09-29",
+                "rank": 7
+            },
+            {
+                "patent_name": "Robot device for underwater observation and salvage rescue",
+                "patent_number": "patent/CN110606174A/en",
+                "date_produced": "2019-10-15",
+                "rank": 8
+            },
+            {
+                "patent_name": "Full-sea-depth offshore bottom autonomous underwater robot structure",
+                "patent_number": "patent/CN111874195A/en",
+                "date_produced": "2020-08-11",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Autonomous Farming Machinery",
+        "patents": [
+            {
+                "patent_name": "The blended emulsion composition that contains organophosphorus insecticide and \u2026",
+                "patent_number": "patent/CN103027034B/en",
+                "date_produced": "2012-10-08",
+                "rank": 0
+            },
+            {
+                "patent_name": "Implement attachment apparatus and power take-off",
+                "patent_number": "patent/US20190200510A1/en",
+                "date_produced": "2018-12-03",
+                "rank": 1
+            },
+            {
+                "patent_name": "Autonomous robotic agricultural machine and system thereof",
+                "patent_number": "patent/US9891629B2/en",
+                "date_produced": "2016-02-04",
+                "rank": 2
+            },
+            {
+                "patent_name": "Autonomous agricultural treatment system using map based targeting of \u2026",
+                "patent_number": "patent/US11076589B1/en",
+                "date_produced": "2020-10-16",
+                "rank": 3
+            },
+            {
+                "patent_name": "Agricultural machine, and system and method controlling the same",
+                "patent_number": "patent/JP2022099084A/en",
+                "date_produced": "2020-12-22",
+                "rank": 4
+            },
+            {
+                "patent_name": "Remote control Weeder",
+                "patent_number": "patent/KR20160000385A/en",
+                "date_produced": "2014-06-24",
+                "rank": 5
+            },
+            {
+                "patent_name": "Implement Attachment Apparatus, Power Take-Off With Safety System and Method \u2026",
+                "patent_number": "patent/US20230000003A1/en",
+                "date_produced": "2022-09-12",
+                "rank": 6
+            },
+            {
+                "patent_name": "Robotic platform and method for performing multiple functions in agricultural \u2026",
+                "patent_number": "patent/US20220095527A1/en",
+                "date_produced": "2021-10-08",
+                "rank": 7
+            },
+            {
+                "patent_name": "agricultural mobile robot for unmanned automation of agricultural production",
+                "patent_number": "patent/KR20180134493A/en",
+                "date_produced": "2017-06-09",
+                "rank": 8
+            },
+            {
+                "patent_name": "Precision agricultural treatment based on growth stage in real time",
+                "patent_number": "patent/US11694434B2/en",
+                "date_produced": "2020-10-16",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Voice Recognition Technology in Smart Homes",
+        "patents": [
+            {
+                "patent_name": "Speaker identification method and system based on three-dimensional convolution \u2026",
+                "patent_number": "patent/CN107464568B/en",
+                "date_produced": "2017-09-25",
+                "rank": 0
+            },
+            {
+                "patent_name": "Smart home voice control system combined with video channel and control method \u2026",
+                "patent_number": "patent/CN102298443B/en",
+                "date_produced": "2011-06-24",
+                "rank": 1
+            },
+            {
+                "patent_name": "Speech recognition method, server and computer-readable storage medium",
+                "patent_number": "patent/WO2019179034A1/en",
+                "date_produced": "2018-08-24",
+                "rank": 2
+            },
+            {
+                "patent_name": "Voice wakeup method and apparatus",
+                "patent_number": "patent/JP6453917B2/en",
+                "date_produced": "2017-01-16",
+                "rank": 3
+            },
+            {
+                "patent_name": "Intelligent home control system and method compatible with abnormal voice",
+                "patent_number": "patent/CN107342076B/en",
+                "date_produced": "2017-07-11",
+                "rank": 4
+            },
+            {
+                "patent_name": "Method and apparatus for controlling smart home appliance, control device and \u2026",
+                "patent_number": "patent/WO2021000791A1/en",
+                "date_produced": "2020-06-28",
+                "rank": 5
+            },
+            {
+                "patent_name": "Multi-dimensional user identity identification method",
+                "patent_number": "patent/CN106599866B/en",
+                "date_produced": "2016-12-22",
+                "rank": 6
+            },
+            {
+                "patent_name": "Customizing speech-recognition dictionaries in a smart-home environment",
+                "patent_number": "patent/US10079012B2/en",
+                "date_produced": "2015-04-21",
+                "rank": 7
+            },
+            {
+                "patent_name": "Voice recognition apparatus and home appliance system",
+                "patent_number": "patent/KR102068182B1/en",
+                "date_produced": "2017-04-21",
+                "rank": 8
+            },
+            {
+                "patent_name": "Voice recognition method and device, storage medium, and air conditioner",
+                "patent_number": "patent/EP3923273B1/en",
+                "date_produced": "2019-10-09",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Quantum Sensors in Navigation Systems",
+        "patents": [
+            {
+                "patent_name": "Systems and methods for identifying undue dust conditions",
+                "patent_number": "patent/US20160299511A1/en",
+                "date_produced": "2015-04-07",
+                "rank": 0
+            },
+            {
+                "patent_name": "The system and method for storage and calling station data",
+                "patent_number": "patent/CN104180815B/en",
+                "date_produced": "2014-05-21",
+                "rank": 1
+            },
+            {
+                "patent_name": "Providing a confidence-based road event message",
+                "patent_number": "patent/EP3451312B1/en",
+                "date_produced": "2018-07-27",
+                "rank": 2
+            },
+            {
+                "patent_name": "Method and System for Tracking Assets",
+                "patent_number": "patent/US20100097208A1/en",
+                "date_produced": "2009-07-14",
+                "rank": 3
+            },
+            {
+                "patent_name": "Quantum imaging for underwater arctic navigation",
+                "patent_number": "patent/US9798006B2/en",
+                "date_produced": "2015-07-16",
+                "rank": 4
+            },
+            {
+                "patent_name": "Medical systems, devices and methods",
+                "patent_number": "patent/US20170173262A1/en",
+                "date_produced": "2017-03-01",
+                "rank": 5
+            },
+            {
+                "patent_name": "Apparatus and system to manage monitored vehicular flow rate",
+                "patent_number": "patent/US10037689B2/en",
+                "date_produced": "2015-03-24",
+                "rank": 6
+            },
+            {
+                "patent_name": "Parameter-based navigation by a lumen traveling device",
+                "patent_number": "patent/US9408530B2/en",
+                "date_produced": "2011-08-05",
+                "rank": 7
+            },
+            {
+                "patent_name": "Real-time thermal camera based odometry and navigation systems and methods",
+                "patent_number": "patent/US20220377261A1/en",
+                "date_produced": "2022-07-27",
+                "rank": 8
+            },
+            {
+                "patent_name": "Autonomous vehicle comprising extracorporeal blood treatment machine",
+                "patent_number": "patent/CN105142690B/en",
+                "date_produced": "2014-03-12",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Drone Delivery Systems in Logistics",
+        "patents": [
+            {
+                "patent_name": "Article distribution method and device, e-commerce system and storage medium",
+                "patent_number": "patent/CN111353731A/en",
+                "date_produced": "2018-12-20",
+                "rank": 0
+            },
+            {
+                "patent_name": "Smart drone rooftop and ground airport system",
+                "patent_number": "patent/US20200349852A1/en",
+                "date_produced": "2020-05-04",
+                "rank": 1
+            },
+            {
+                "patent_name": "Modular delivery vehicle system",
+                "patent_number": "patent/US20210132625A1/en",
+                "date_produced": "2020-12-19",
+                "rank": 2
+            },
+            {
+                "patent_name": "Unmanned Aerial Delivery System",
+                "patent_number": "patent/US20160257423A1/en",
+                "date_produced": "2014-09-09",
+                "rank": 3
+            },
+            {
+                "patent_name": "Drone based delivery system using vehicles",
+                "patent_number": "patent/EP3523606B1/en",
+                "date_produced": "2017-09-25",
+                "rank": 4
+            },
+            {
+                "patent_name": "Vehicle-mounted storage and distribution integrated logistics distribution \u2026",
+                "patent_number": "patent/CN210527526U/en",
+                "date_produced": "2019-05-28",
+                "rank": 5
+            },
+            {
+                "patent_name": "Receiving Appliance for Automated Deliveries",
+                "patent_number": "patent/US20210339887A1/en",
+                "date_produced": "2021-06-13",
+                "rank": 6
+            },
+            {
+                "patent_name": "Drone air traffic control over wireless networks for package pickup and \u2026",
+                "patent_number": "patent/US11355020B2/en",
+                "date_produced": "2018-08-10",
+                "rank": 7
+            },
+            {
+                "patent_name": "Managing dynamic obstructions in air traffic control systems for passenger \u2026",
+                "patent_number": "patent/US11341858B2/en",
+                "date_produced": "2019-09-23",
+                "rank": 8
+            },
+            {
+                "patent_name": "Enriched Logistics System for Unmanned Vehicle Delivery of Parcels",
+                "patent_number": "patent/US20190114564A1/en",
+                "date_produced": "2017-10-18",
+                "rank": 9
+            }
+        ]
+    },
+    {
+        "query": "Artificial Photosynthesis for Carbon Capture",
+        "patents": [
+            {
+                "patent_name": "Integrated carbon capture and algae culture",
+                "patent_number": "patent/WO2012078970A2/en",
+                "date_produced": "2011-12-09",
+                "rank": 0
+            },
+            {
+                "patent_name": "Bio-Breeder System for Biomass Production",
+                "patent_number": "patent/US20090221057A1/en",
+                "date_produced": "2008-02-28",
+                "rank": 1
+            },
+            {
+                "patent_name": "Methods and systems for large scale carbon dioxide utilization from Lake Kivu \u2026",
+                "patent_number": "patent/US10577248B2/en",
+                "date_produced": "2017-05-24",
+                "rank": 2
+            },
+            {
+                "patent_name": "Biological work-up of hydrocarbon- and carbon dioxide-containing gases \u2026",
+                "patent_number": "patent/DE10346471A1/en",
+                "date_produced": "2003-10-02",
+                "rank": 3
+            },
+            {
+                "patent_name": "Method for adjusting and controlling carbon dioxide and oxygen balance in \u2026",
+                "patent_number": "patent/CN105159073A/en",
+                "date_produced": "2015-08-18",
+                "rank": 4
+            },
+            {
+                "patent_name": "Process and apparatus for carbon capture and elimination of multi-pollutants in \u2026",
+                "patent_number": "patent/CA2682402C/en",
+                "date_produced": "2008-04-02",
+                "rank": 5
+            },
+            {
+                "patent_name": "Transgenic photosynthetic microorganisms and photobioreactor",
+                "patent_number": "patent/AU2009204313B2/en",
+                "date_produced": "2009-01-05",
+                "rank": 6
+            },
+            {
+                "patent_name": "Use of oxyhydrogen microorganisms for non-photosynthetic carbon capture and \u2026",
+                "patent_number": "patent/US9085785B2/en",
+                "date_produced": "2013-09-20",
+                "rank": 7
+            },
+            {
+                "patent_name": "Atom-dispersed water oxidation catalyst and preparation and application thereof",
+                "patent_number": "patent/CN108070874B/en",
+                "date_produced": "2016-11-16",
+                "rank": 8
+            },
+            {
+                "patent_name": "Method for synthesizing N, N' -dialkyl oxyaldehyde amide and derivatives \u2026",
+                "patent_number": "patent/CN108084046B/en",
+                "date_produced": "2017-12-28",
+                "rank": 9
+            }
+        ]
+    }
+]
