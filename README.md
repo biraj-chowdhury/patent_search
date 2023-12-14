@@ -15,3 +15,7 @@
     - `test/`
         - Contains data/documents and metrics for test set
         - Utilizes manually annotated answer key
+
+## Results
+
+See [scores.json](/json/test/scores.json) for results.

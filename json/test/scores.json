@@ -2,44 +2,55 @@
     "average_precision": [
         {
             "query": "AI-Powered Personal Finance Management",
-            "average_precision": 0.693262887905745
+            "average_precision": 0.40646000824572254,
+            "nDCG": 0.7736395655516014
         },
         {
             "query": "Waste-to-Energy Conversion Technologies",
-            "average_precision": 0.19140646526675936
+            "average_precision": 0.671060585656174,
+            "nDCG": 0.9769494477764817
         },
         {
             "query": "DNA Data Storage Technologies",
-            "average_precision": 0.6501662406176011
+            "average_precision": 0.6294939494629898,
+            "nDCG": 0.9589651382267702
         },
         {
             "query": "Wearable Exoskeletons in Rehabilitation",
-            "average_precision": 0.6779243030791019
+            "average_precision": 0.8040259740259741,
+            "nDCG": 0.9958686764836121
         },
         {
             "query": "Underwater Robotics for Marine Research",
-            "average_precision": 0.5762502001782187
+            "average_precision": 0.7682914797620681,
+            "nDCG": 0.9817766183573766
         },
         {
             "query": "Autonomous Farming Machinery",
-            "average_precision": 0.4917507646674313
+            "average_precision": 0.43393974852308187,
+            "nDCG": 0.7294197151120023
         },
         {
             "query": "Voice Recognition Technology in Smart Homes",
-            "average_precision": 0.5445126300428159
+            "average_precision": 0.6786314227568098,
+            "nDCG": 0.9444015628834674
         },
         {
             "query": "Quantum Sensors in Navigation Systems",
-            "average_precision": 0.266804989881913
+            "average_precision": 0.27663447663447666,
+            "nDCG": 0.4900855323171848
         },
         {
             "query": "Drone Delivery Systems in Logistics",
-            "average_precision": 0.7794436591005219
+            "average_precision": 0.6768863081363082,
+            "nDCG": 0.9123158859925758
         },
         {
             "query": "Artificial Photosynthesis for Carbon Capture",
-            "average_precision": 0.5144294006013902
+            "average_precision": 0.8136755842332671,
+            "nDCG": 0.9748600232279911
         }
     ],
-    "MAP-Score": 0.5385951541341498
+    "MAP-Score": 0.6159099537436872,
+    "Mean nDCG": 0.8738282165929062
 }
