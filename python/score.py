@@ -1,4 +1,5 @@
 import json
+import numpy as np
 
 def load_json_data(filename):
     with open(f'json/test/{filename}', 'r') as file:
@@ -33,57 +34,66 @@ def calculate_overlap(query_results, answer_key):
     
     return overlap_scores, aggregate_percentage
 
-def calc_average_precision_and_map_score(query_results, answer_key) -> float:
-    AP_scores = []
+# Gather metrics for Average Precision, MAP, Normalized Discounted Cumulative Gain, and Mean NDCG
+def calculate_metrics(query_results, answer_key) -> float:
+    scores = []
 
-    query_set = set()
-    answer_set = set()
     for query_result, answer in zip(query_results, answer_key):
-        average_precision = 0
-        for retrieved_patent, relevant_patent in zip(query_result['relevant_patents'], answer['patents']):
-            query_set.add(retrieved_patent['patent_name'])
-            answer_set.add(relevant_patent['patent_name'])
+        # Metric at kth document
+        precision_at_k = 0
+        DCG_k = 0
+        IDCG_k = 0
+        k = 1
 
+        total_relevant = {}
+        query_set = set()
+        answer_set = set()
+        for patent in answer['patents']:
+            total_relevant[patent['patent_name']] = patent['relevance']
+
+        for retrieved_patent, relevant_patent in zip(query_result['relevant_patents'], answer['patents']):
+            output_patent = retrieved_patent['patent_name']
+            ideal_patent = relevant_patent['patent_name']
+            
+            log_denominator = np.log2(k+1)
+            DCG_k += (total_relevant.get(output_patent, 0) / log_denominator)
+            IDCG_k += (relevant_patent['relevance'] / log_denominator)
+
+            query_set.add(output_patent)
+            answer_set.add(ideal_patent)
             overlap = len(query_set.intersection(answer_set))
             total = len(answer_set)
 
-            average_precision += (overlap / total)
+            precision_at_k += ((overlap / total) * (1 if output_patent in total_relevant else 0))
+            k += 1
         
-        average_precision /= len(answer['patents'])
-        query_set.clear()
-        answer_set.clear()
 
-        AP_scores.append({
+        average_precision = precision_at_k / len(answer['patents'])
+        normalized_DCG = DCG_k / IDCG_k
+
+        scores.append({
             "query": query_result['query'],
-            "average_precision": average_precision
+            "average_precision": average_precision,
+            "nDCG": normalized_DCG
         })
 
-    map_score = sum(ap['average_precision'] for ap in AP_scores) / len(AP_scores)
-    return AP_scores, map_score
+    map_score = sum(ap['average_precision'] for ap in scores) / len(scores)
+    mean_NDCG = sum(ap['nDCG'] for ap in scores) / len(scores)
+    return scores, map_score, mean_NDCG
 
 def main():
     # Load data from JSON files
     query_results = load_json_data('query_results.json')
     answer_key = load_json_data('manually_annotated_answer_key.json')
 
-    # Calculate overlap scores
-    # overlap_scores, aggregate_percentage = calculate_overlap(query_results, answer_key)
-
-    # # Save results to a JSON file
-    # with open('overlap_score.json', 'w') as file:
-    #     json.dump({
-    #         "individual_overlap_scores": overlap_scores,
-    #         "aggregate_percentage": aggregate_percentage
-    #     }, file, indent=4)
-
-    # Calculate Average-Precision per query and MAP-Score
-    ap_scores, map_score = calc_average_precision_and_map_score(query_results, answer_key)
+    scores, map_score, mean_nDCG = calculate_metrics(query_results, answer_key)
 
     # Save results to a JSON file
     with open('json/test/scores.json', 'w') as file:
         json.dump({
-            "average_precision": ap_scores,
-            "MAP-Score": map_score
+            "average_precision": scores,
+            "MAP-Score": map_score,
+            "Mean nDCG": mean_nDCG
         }, file, indent=4)
 
     print("Evaluation metrics saved to scores.json")
